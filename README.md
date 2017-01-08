@@ -3,11 +3,26 @@ Mechatronics at California College of the Arts, Spring 2017
 
 This repository contains everything regarding this course such as syllabus, homework assignments, useful guides, and code.
 
-* Class: Noon - 3 PM, Room 107 SF Main (SF Hybrid Lab)
+* Class: Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
 * Instructor: Michael Shiloh mshiloh@cca.edu
+* Office hours: 
+	* Tuesdays and Thursdays 3:00 - 3:30
+	* Also available at other times by appointment
 * [course syllabus](syllabus.pdf)
 
 ###Week 1: Tuesday, January 17, 2017
+- Introductions
+- Interests and goals
+- Demonstration
+- Lecture: Basic machines
+- Resources: 
+	- Machines/Machinations
+	- Making Things Talk
+	- Making Things Move
+	- Cabaret Mechanical Theatre Mechanisms
+	- Online resources
+- Homework: 
+	- Build something that is activated by a crank
 
 ###Week 2: Tuesday, January 24, 2017
 
