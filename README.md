@@ -65,6 +65,7 @@ This repository contains everything regarding this course such as syllabus, home
 ###Week 11: Tuesday, April 4, 2017
 
 ###Week 12: Tuesday, April 11, 2017
+	Passover
 
 ###Week 13: Tuesday, April 18, 2017
 
