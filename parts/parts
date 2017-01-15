@@ -35,7 +35,7 @@ mux/switch
 30 74hc4066 quad spst analog swx
 13 74hc4052 dual 4:1 analog mux
 15 74hc4051 8:1 analog mux
-17 74hc 4053 triple 2:1 analog mux
+17 74hc4053 triple 2:1 analog mux
 
 audio amps
 20 tda2822 
@@ -69,12 +69,26 @@ HOME
 op amps
 5 MC34072 single supply 3-44V dual 
 4 lm358 dual 
+3 tlv2474cn rail-to-rail quad
+15 lm741
+12 mc1458 dual gp
+12 lm6484 cmos quad rail-to-rail op amp
+10 tl072 dual JFET input low noise 
+25 tl082 dual JFET (BIFET) input 
+25 ne5532 dual low-noise op amp
+10 lmc6482 cmos dual rail-to-rail op-amp
+25 lm2904 dual gp (lm358 equiv?)
+tlv2772 Dual 2.7-V High Slew Rate Rail-To-Rail Output op amp
 
 schmitt triggers
 10 cd4093 quad schmitt trigger 2 input nand
+16 40106 hex schmitt trigger
+7 TC4584 hex schmitt trigger (possibly 40106 replacement)
 
 audio amps
 5 BA820M 1.2w mono amp
+20 lm386
+3 lm391 audio power driver (obsolete)
 
 digital
 1 DS1620 Digital Thermometer and Thermostat 
@@ -85,3 +99,14 @@ misc
 8 ULN2803 8 channel Darlington driver
 2 74C193 4 bit decade counter (obsolete)
 9 4131-103 7/8 bit digital pot
+30 lm567 PLL tone decoder
+
+comparators
+20 lm339 quad differential comparator
+6 lm311 
+
+mux
+5 mc14051 8:1 analog switch
+3 4052
+1 4053
+5 74hc4066 quad spst analog swx
