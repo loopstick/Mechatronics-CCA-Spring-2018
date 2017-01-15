@@ -79,11 +79,14 @@ op amps
 10 lmc6482 cmos dual rail-to-rail op-amp
 25 lm2904 dual gp (lm358 equiv?)
 tlv2772 Dual 2.7-V High Slew Rate Rail-To-Rail Output op amp
+4162 rail-to-rail op-amp
 
 schmitt triggers
-10 cd4093 quad schmitt trigger 2 input nand
+13 mc14093 or cd4093 quad schmitt trigger 2 input nand
 16 40106 hex schmitt trigger
 7 TC4584 hex schmitt trigger (possibly 40106 replacement)
+20 74c14 hex schmitt trigger replacement for 40106
+
 
 audio amps
 5 BA820M 1.2w mono amp
@@ -93,13 +96,20 @@ audio amps
 digital
 1 DS1620 Digital Thermometer and Thermostat 
 1 MAX528 Octal, Serial, 8-Bit DAC with Output Buffers
+2 74C193 4 bit decade counter (obsolete)
+8 cd4050 CMOS hex non-inverting buffer (level shifter)
+10 4020b 14-stage binary counter 
 
 misc
 3 442-22 op-amp, possibly lm741 equiv
 8 ULN2803 8 channel Darlington driver
-2 74C193 4 bit decade counter (obsolete)
-9 4131-103 7/8 bit digital pot
+13 4131-103 7/8 bit digital pot
 30 lm567 PLL tone decoder
+20 cd4046 cmos micropower PLL
+
+DAC/ADC/potentiometer
+9 mcp41010 digital pot
+4 mcp4921 12 bit spi DAC
 
 comparators
 20 lm339 quad differential comparator
@@ -110,3 +120,4 @@ mux
 3 4052
 1 4053
 5 74hc4066 quad spst analog swx
+
