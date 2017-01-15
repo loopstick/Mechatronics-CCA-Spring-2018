@@ -15,6 +15,7 @@ This repository contains everything regarding this course such as syllabus, home
 - Introductions
 - Interests and goals
 - Shopping list
+	- Arduino, Breadboard, USB cable
 - Demonstration
 	- Basic machines
 	- Construction techniques
