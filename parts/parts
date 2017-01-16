@@ -46,7 +46,7 @@ shift registers
 9 tpic68595 high power
 
 misc
-23 mcp41010 digital pot
+23 mcp41010 256 tap SPI digital pot
 2 monolithic function generator
 4 msgeq7 bandpass filters
 
@@ -108,7 +108,7 @@ misc
 20 cd4046 cmos micropower PLL
 
 DAC/ADC/potentiometer
-9 mcp41010 digital pot
+9 mcp41010 256 tap SPI digital pot
 4 mcp4921 12 bit spi DAC
 
 comparators
