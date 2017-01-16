@@ -11,14 +11,19 @@ This repository contains everything regarding this course such as syllabus, home
 * [course syllabus](syllabus.pdf)
 
 ###Week 1: Tuesday, January 17, 2017
-- Parts needed: foam core, cardboard, wooden dowels, etc. (can use mine)
 - Introductions
 - Interests and goals
-- Shopping list
-	- Arduino, Breadboard, USB cable
-- Demonstration
+- Required equipment
+	- Arduino.cc Uno R3  (Arduino, Adafruit). Must not be a clone or a compatible. Do not order from Amazon or Ebay)
+	- Solderless breadboard, full size (also known as 830 tie point)
+	- Laptop (Windows, Linux, or Macintosh)
+	- Jumper wires
+	- USB cable, full-size AB
+	- Dedicated notebook for class notes and project journal
+- Lecture/Demonstration/Hands-on activity
 	- Basic machines
 	- Construction techniques
+	- Parts needed: foam core, cardboard, wooden dowels, etc. (can use mine)
 - Resources:  (move all resources to one resources page)
 	- Machines/Machinations
 	- Making Things Talk
@@ -27,53 +32,82 @@ This repository contains everything regarding this course such as syllabus, home
 	- Online resources
 - Homework:
 	- Build a mechanical contraption that is activated by a crank
+	- Order the items on the sho
 
 ###Week 2: Tuesday, January 24, 2017
-- Parts needed: Arduino, motors, transistors, capacitors (can use mine)
-- Hands-on activity: Basic Arduino, Motors, capacitors as needed
+- Lecture/Demonstration/Hands-on activity
+	- Basic Arduino, Motors, capacitors as needed
+	- Parts needed: Arduino, motors, transistors, capacitors (can use mine)
 - Homework:
 	- Build a motorized mechanical contraption (add a motor to last week's
 		assignment or build a new one). Control the motor to prevent damage to
 		your contraption
 
 ###Week 3: Tuesday, January 31, 2017
-- Parts needed: switches, light sensors, reed switches, magnets
-- Demonstration: Sensors
-- Project: drawing machine
+- Lecture/Demonstration/Hands-on activity
+	- Sensors
+	- Parts needed: switches, light sensors, reed switches, magnets
 - Homework:
-	- Build a manual drawing machine
+	- Add sensors to your contraption to detect and stop at two positions
 
 ###Week 4: Tuesday, February 7, 2017
 - Project critique
+- Lecture/Demonstration/Hands-on activity
+	- Autonomy
+	- Complex control
 - Homework: 
-	- Build an electronic drawing machine, or electrify your manual model
+	- Build a simple electrical drawing machine
 
 ###Week 5: Tuesday, February 14, 2017
+- Project critique
+- Lecture/Demonstration/Hands-on activity
+	- Electronic construction techniques
+- Homework: 
+	- Build an electrical vehicle
+		- Either autonomous or wired remote control
 
 ###Week 6: Tuesday, February 21, 2017
-	work week
+- Work week (I will be out of town)
 
 ###Week 7: Tuesday, February 28, 2017
+- Project critique
+-	Midterm evaluations (2/20-3/3)
 
 ###Week 8: Tuesday, March 7, 2017
+- Lecture/Demonstration/Hands-on activity
+	- Debugging
+	- Test equipement
+- Homework
+  - Final project proposals
 
 ###Week 9: Tuesday, March 14, 2017
+- Critique proposals
+- Start working: Research, mock-ups, test ideas and concepts
 
 ###Spring Break: Tuesday, March 21, 2017
+- Research, mock-ups, test ideas and concepts
 
 ###Week 10: Tuesday, March 28, 2017
+- Work: test, repair, iterate
+- Homework: __Working__ mock-up by next week
 
 ###Week 11: Tuesday, April 4, 2017
+- Critique working mock-up
+- Lecture: Minimal Viable Project (MVP)
+- Debug and refine mockup, start on prototype
+- Homework: __Working__ minimal viable project due week 13
 
 ###Week 12: Tuesday, April 11, 2017
-	Passover
+	- Passover: work week
 
 ###Week 13: Tuesday, April 18, 2017
+- Demonstrate working minimal viable project
+- Homework: Refine
 
 ###Week 14: Tuesday, April 25, 2017
+- Final project critique
 
 ###Week 15: Tuesday, May 2, 2017
-
-No class;  End of Year Reviews for Year Zero and Year One
+- No class;  End of Year Reviews for Year Zero and Year One
 
 Interface show, Saturday May 6th
