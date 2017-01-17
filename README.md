@@ -14,11 +14,16 @@ This repository contains everything regarding this course such as syllabus, home
 - Introductions
 - Interests and goals
 - Required equipment
-	- Arduino.cc Uno R3  (Arduino, Adafruit). Must not be a clone or a compatible. Do not order from Amazon or Ebay)
-	- Solderless breadboard, full size (also known as 830 tie point)
+	- Arduino.cc Uno R3 e.g. from
+		[Arduino](https://store-usa.arduino.cc/products/a000066) or 
+		[Adafruit](https://www.adafruit.com/products/50)). Must be the real thing, not be a clone or a compatible. Do not order from Amazon or Ebay
+	- Solderless breadboard, full size (also known as 830 tie point) e.g. from
+		[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
+	- [Full size USB cable (type A to type
+	B)](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
+	- pack of [jumper
+	wires](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
 	- Laptop (Windows, Linux, or Macintosh)
-	- Jumper wires
-	- USB cable, full-size AB
 	- Dedicated notebook for class notes and project journal
 - Lecture/Demonstration/Hands-on activity
 	- Basic machines
