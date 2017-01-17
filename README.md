@@ -172,10 +172,10 @@ The schedule is subject to change
 	- Basic machines
 	- Construction techniques
 - Resources:  (move all resources to one resources page)
-	- [Machinations Mechanisms/](resources/machinations-mechanisms.pdf)
+	- [Machinations/Mechanisms](resources/machinations-mechanisms.pdf)
 	- Making Things Talk (handout)
 	- Making Things Move (book)
-	- How to Build Automata
+	- How to Build Automata (book)
 	- Online resources
 - Homework:
 	- Build a mechanical contraption that is activated by a crank
