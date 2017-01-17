@@ -1,6 +1,6 @@
 # Mechatronics-Spring-2017
-Mechatronics at California College of the Arts, Spring 2017 
-This page is the syllabus
+###Mechatronics at California College of the Arts, Spring 2017 
+####Syllabus
 
 * Title: Mechatronics (Graduate Design)
 * Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
@@ -10,12 +10,12 @@ This page is the syllabus
 	* And at other times by appointment
 
 ####Goals
-My goal is to teach you how to design, build, and debug mechatronic devices. i
-want to make the course as interesting and relevant as possible for you, so please ask
-questions and bring up topics you are curious about.
+My goal is to teach you how to design, build, and debug mechatronic devices. 
+I want to make the course as interesting and relevant as possible for you, 
+so please ask questions and bring up topics you are curious about.
 
 ####Github and Class Repository
-We will be using a cloud service called Github. Our repository is at:
+We will be using a cloud service called Github. Our repository is at
 https://github.com/michaelshiloh/Mechatronics-Spring-2017
 
 The class repository will be used to assign homework and reading
@@ -28,8 +28,8 @@ for project documentation.
 
 ####Required Textbook
 No textbook is required, but there are many good online references and a
-few good books out there we can recommend — it might be useful to get a
-book as a reference.
+few good books out there I can recommend. We also have a good assortment of
+books in the library.
 
 ####Prerequisites
 * Basic algebra. You should be comfortable with simple equations,
@@ -42,6 +42,7 @@ engineering prefixes (micro, milli, kilo, mega, etc.)
 check one out from the Media Center. You will need a computer to
 participate, and your grade will be negatively affected if you don’t bring
 one.
+* Always bring your Arduino, breadboard, jumper wires, etc. to class.
 * Participate in class! Ask questions, guess answers, propose topics,
 share interesting projects you’ve found, push the envelope, explore your
 interests, and teach us all! There are no stupid questions; admitting when
@@ -67,6 +68,7 @@ CCA says:
 > 510.594.3775), to answer any questions or for assistance. For more
 > information, consult CCA's webpage at: http://www.cca.edu/
 > students/resources/disability.
+
 I want you to succeed in this class. Please make use of the Hybrid Lab
 coaches, the Learning Resource Center, and talk to me if you feel you are
 struggling with the material — I can help you do better in this class, but
@@ -80,12 +82,13 @@ give yourself enough time!
 
 ####Grading
 I will consider the various components of the class in roughly the following proportions:
-25% Homework & Assignments
-40% Projects
-25% In-Class Lab & Hands-on Work
-10% Attendance & Participation
+* 25% Homework & Assignments
+* 40% Projects and Project Documentation
+* 25% In-Class Hands-on Work and Notebook
+* 10% Attendance & Participation
 
 Grading Rubric
+
 **A: Excellent.** You’ve exhibited exemplary conceptual, technical and
 perceptual ability implementing projects. You’ve demonstrated a deft
 understanding of required readings, and ability to successfully
@@ -120,11 +123,13 @@ projects you make want to work on in the future!
 ####Required equipment
 - Arduino.cc Uno R3 e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
-	[Adafruit](https://www.adafruit.com/products/50)). Must be the real thing, not be a clone or a compatible. Do not order from Amazon or Ebay
+	[Adafruit](https://www.adafruit.com/products/50)). 
+	Must be the real thing, not be a clone or a compatible. 
+	Do not order from Amazon or Ebay.
 - Solderless breadboard, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
 - Full size USB cable (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
-- pack of jumper wires e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
+- Pack of jumper wires e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
 - Laptop (Windows, Linux, or Macintosh)
 - Dedicated notebook for class notes and project journal
 
@@ -167,10 +172,10 @@ The schedule is subject to change
 	- Basic machines
 	- Construction techniques
 - Resources:  (move all resources to one resources page)
-	- Machines/Machinations
-	- Making Things Talk
-	- Making Things Move
-	- Cabaret Mechanical Theatre Mechanisms
+	- [Machinations Mechanisms/](resources/machinations-mechanisms.pdf)
+	- Making Things Talk (handout)
+	- Making Things Move (book)
+	- How to Build Automata
 	- Online resources
 - Homework:
 	- Build a mechanical contraption that is activated by a crank
