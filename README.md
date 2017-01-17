@@ -1,8 +1,5 @@
 # Mechatronics-Spring-2017
 Mechatronics at California College of the Arts, Spring 2017 
-
-This repository contains everything regarding this course such as homework assignments, useful guides, and code.
-
 This page is the syllabus
 
 * Title: Mechatronics (Graduate Design)
@@ -17,12 +14,17 @@ My goal is to teach you how to design, build, and debug mechatronic devices. i
 want to make the course as interesting and relevant as possible for you, so please ask
 questions and bring up topics you are curious about.
 
-####Class Repository
-http://github.com/zamfi/cca-programming-electronics-fall-2016
+####Github and Class Repository
+We will be using a cloud service called Github. Our repository is at:
+https://github.com/michaelshiloh/Mechatronics-Spring-2017
+
 The class repository will be used to assign homework and reading
 assignments, and will contain useful code, libraries, and links to other
 resources. Github allows you to receive email updates when a repository
 changes — take advantage of this feature!
+
+You will be required to create your own repository for handing in homework and
+for project documentation. 
 
 ####Required Textbook
 No textbook is required, but there are many good online references and a
@@ -174,6 +176,9 @@ The schedule is subject to change
 	- Build a mechanical contraption that is activated by a crank
 	- Order the required equipment to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3
+	- Create your Github repository using [this
+		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
+		and email me the URL to your repository
 
 ###Week 2: Tuesday, January 24, 2017
 - Lecture/Demonstration/Hands-on activity
