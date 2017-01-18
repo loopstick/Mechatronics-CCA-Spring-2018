@@ -137,6 +137,16 @@ Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
 fees, but do so immediately so we have the equipment on hand.
 
+Remember that Noam gave us
+a code that might be good for 10% educational discount at Adafruit. The
+code is ADAEDU
+
+Local stores that should carry all these are:
+* [Jameco](www.jameco.com) in Belmont, just south of the SFO airport
+* [Al Lasher's Electronics](http://allashers.com/) in Berkeley
+* I mentioned [Fry's Electronics](www.frys.com) (various locations in South Bay) in class 
+but I'm not sure that they carry the official Arduino.
+
 ####Optional equipment
 As you develop your projects and interests, you might need to purchase
 additional components and devices. This is impossible to predict as the range
@@ -180,7 +190,7 @@ The schedule is subject to change
 - Homework:
 	- Build a mechanical contraption that is activated by a crank
 	- Order the required equipment to arrive no later than Friday January 27 so
-		that you can complete the homework for week 3
+		that you can complete the homework for week 3. 
 	- Create your Github repository using [this
 		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 		and email me the URL to your repository
