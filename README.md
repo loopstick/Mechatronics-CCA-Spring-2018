@@ -1,6 +1,6 @@
 # Mechatronics-Spring-2017
-###Mechatronics at California College of the Arts, Spring 2017 
-####Syllabus
+##Mechatronics at California College of the Arts, Spring 2017 
+###Syllabus
 
 * Title: Mechatronics (Graduate Design)
 * Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
