@@ -192,7 +192,9 @@ The schedule is subject to change
 
 ###Week 2: Tuesday, January 24, 2017
 - Lecture/Demonstration/Hands-on activity
-	- Basic Arduino and Motors (transistors and capacitors)
+	- Basic Arduino 
+	- Transistors and Motors 
+	- Capacitors if necessary
 - Homework:
 	- Build a motorized mechanical contraption (add a motor to last week's
 		assignment or build a new one). Control the motor to prevent damage to
