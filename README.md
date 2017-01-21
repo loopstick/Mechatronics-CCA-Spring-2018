@@ -181,12 +181,7 @@ The schedule is subject to change
 - Lecture/Demonstration/Hands-on activity
 	- Basic machines
 	- Construction techniques
-- Resources:  (move all resources to one resources page)
-	- [Machinations/Mechanisms](resources/machinations-mechanisms.pdf)
-	- Making Things Talk (handout)
-	- Making Things Move (book)
-	- How to Build Automata (book)
-	- Online resources
+- [Resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Homework:
 	- Build a mechanical contraption that is activated by a crank
 	- Order the required equipment to arrive no later than Friday January 27 so
