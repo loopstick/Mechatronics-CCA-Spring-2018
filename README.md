@@ -267,3 +267,7 @@ The schedule is subject to change
 - No class;  End of Year Reviews for Year Zero and Year One
 
 Interface show, Saturday May 6th
+
+## Student Repositories
+
+[Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)
