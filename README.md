@@ -271,16 +271,15 @@ Interface show, Saturday May 6th
 ## Student Repositories
 
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
-[Xueting Wang (Vivian)](https://github.com/vivwang)  
+[Xueting Wang (Vivian)](https://github.com/vivwang/hw1)  
 [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
 [Benner Boswell](https://github.com/bennerboswell)  
 [Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
 Alexander M. Kane   
 Alexander E. Kozachek   
-Xiaodong Ma   
+[Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
 Dan Qian    
 Jeffrey Stone    
 Hao Sui    
 Fei Wang   
 Yan Yan    
-
