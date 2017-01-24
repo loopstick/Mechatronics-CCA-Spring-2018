@@ -284,5 +284,5 @@ Alexander E. Kozachek
 Dan Qian    
 Jeffrey Stone    
 Hao Sui    
-Fei Wang   
+[Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
 Yan Yan    
