@@ -191,12 +191,15 @@ The schedule is subject to change
 		and email me the URL to your repository
 
 ###Week 2: Tuesday, January 24, 2017
+- Announcements
+	- Review schedule
+	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
 	- Basic Arduino 
 	- Transistors and Motors 
 	- Capacitors if necessary
 - Homework:
-	- Build a motorized mechanical contraption (add a motor to last week's
+	- Build a motorized mechanical contraption (either add a motor to last week's
 		assignment or build a new one). Control the motor to prevent damage to
 		your contraption
 
