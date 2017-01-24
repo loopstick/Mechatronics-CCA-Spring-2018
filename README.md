@@ -195,7 +195,8 @@ The schedule is subject to change
 	- Review schedule
 	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
-	- Basic Arduino 
+	- Basic Arduino
+		[Tutorial[(http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Transistors and Motors 
 	- Capacitors if necessary
 - Homework:
