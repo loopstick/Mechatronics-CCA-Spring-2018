@@ -196,13 +196,21 @@ The schedule is subject to change
 	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
 	- Basic Arduino
-		[Tutorial[(http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+		[Tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Transistors and Motors 
 	- Capacitors if necessary
 - Homework:
+	- Review the Basic Arduino
+	  (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+		  we did in class. Read the entire tutorial, even the parts we didn't do
+	- You might want to refer to some other Arduino material. There is plenty
+		online, such as the Arduino Resources on
+		[this](https://github.com/michaelshiloh/resourcesForClasses)
+		page
 	- Build a motorized mechanical contraption (either add a motor to last week's
-		assignment or build a new one). Control the motor to prevent damage to
-		your contraption
+		assignment or build a new one). Control the speed of the motor using
+		analogWrite() to prevent damage to your contraption. I recommend starting
+		with a very slow speed at first.
 
 ###Week 3: Tuesday, January 31, 2017
 - Lecture/Demonstration/Hands-on activity
