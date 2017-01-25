@@ -217,6 +217,10 @@ The schedule is subject to change
 		analogWrite() to prevent damage to your contraption. I recommend starting
 		with a very slow speed at first.
 
+		I have created an example Arduino program that just sets the speed
+		of the motor and doesn't change anything:
+		[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
+
 ###Week 3: Tuesday, January 31, 2017
 - Lecture/Demonstration/Hands-on activity
 	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
