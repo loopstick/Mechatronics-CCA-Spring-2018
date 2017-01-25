@@ -1,5 +1,8 @@
 # Mechatronics-Spring-2017
 ##Mechatronics at California College of the Arts, Spring 2017 
+
+#### current homework assignment
+
 ###Syllabus
 
 * Title: Mechatronics (Graduate Design)
@@ -190,6 +193,8 @@ The schedule is subject to change
 		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 		and email me the URL to your repository
 
+#### current homework assignment
+
 ###Week 2: Tuesday, January 24, 2017
 - Announcements
 	- Review schedule
@@ -201,7 +206,7 @@ The schedule is subject to change
 	- Capacitors if necessary
 - Homework:
 	- Review the Basic Arduino
-	  (tutorial)[http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	  [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 		  we did in class. Read the entire tutorial, even the parts we didn't do
 	- You might want to refer to some other Arduino material. There is plenty
 		online, such as the Arduino Resources on
