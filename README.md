@@ -193,8 +193,6 @@ The schedule is subject to change
 		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 		and email me the URL to your repository
 
-#### current homework assignment
-
 ###Week 2: Tuesday, January 24, 2017
 - Announcements
 	- Review schedule
@@ -204,6 +202,8 @@ The schedule is subject to change
 		[Tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
 	- Transistors and Motors 
 	- Capacitors if necessary
+
+#### current homework assignment
 - Homework:
 	- Review the Basic Arduino
 	  [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
