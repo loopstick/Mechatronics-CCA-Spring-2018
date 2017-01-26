@@ -296,11 +296,12 @@ Interface show, Saturday May 6th
 [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
 [Benner Boswell](https://github.com/bennerboswell)  
 [Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
-Alexander M. Kane   
-Alexander E. Kozachek   
+[Alexander M. Kane](https://github.com/alexmkane)  
+[Alexander E. Kozachek](https://github.com/AeKozachek/HW1)  
 [Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
 Dan Qian    
-Jeffrey Stone    
+[Jeffrey Stone](https://github.com/JeffreyStone/jeffrey)    
 Hao Sui    
 [Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
-Yan Yan    
+[Yan Yan](https://github.com/yyanyan/yan)  
+Bhavin  
