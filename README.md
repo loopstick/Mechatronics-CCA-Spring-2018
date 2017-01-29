@@ -222,10 +222,17 @@ The schedule is subject to change
 		[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
 
 ###Week 3: Tuesday, January 31, 2017
-- Lecture/Demonstration/Hands-on activity
-	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
+- Homework Critique
+- Lecture/Demonstration
+	- Sensors (limit switches, 
+		light sensors, IR proximity, reed switches, magnets)
+- Hands-on activity
+	- Conditionals
 - Homework:
 	- Add sensors to your contraption to detect and stop at two positions
+	- Video/images of your project
+	- __Schematic__ diagram
+	- Code
 
 ###Week 4: Tuesday, February 7, 2017
 - Project critique
