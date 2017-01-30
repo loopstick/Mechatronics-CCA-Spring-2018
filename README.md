@@ -228,6 +228,9 @@ The schedule is subject to change
 		light sensors, IR proximity, reed switches, magnets)
 - Hands-on activity
 	- Conditionals
+	- Soldering
+- Demonstration
+	- Case study of constructing mechatronics contraption
 - Homework:
 	- Add sensors to your contraption to detect and stop at two positions
 	- Video/images of your project
