@@ -1,16 +1,13 @@
-1. First plan for elevator. Frame was foam core, elevator was spool on wooden
-dowel. 
+1. First plan for elevator: Frame was foam core, elevator was spool on wooden
+dowel, and cord ran  around a pulley at the top and bottom:
+![](images/spoolPulley.jpg)
 
-![Motor attached to tin can around which some cord was
-wound](images/motorAndDrum.jpg)
+cord was pulled by a motor attached to tin can around which the cord was
+wound:
+![](images/motorAndDrum.jpg)
 
-to pull elevator up and down, 
-
-![around a pulley at the top and bottom.](images/spoolPulley.jpg)
-
-
-Pulleys were chair casters with corks for the cord.
-
+support structure, showing pulleys of chair casters with corks on which the 
+cord ran:
 ![Frame to hold elevator mechanism](images/spoolMount.jpg)
 
 
@@ -27,19 +24,19 @@ Problem: Terribly unstable, sensors almost never activated
 the mechanism was attached to a metal dowel, it always moved exactly in the
 same line. I figured this would help my sensors sense more reliably.
 
-2.1 Test motor by hooking up directly to 5V and GND from Arduino. It worked.
+2.1. Test motor by hooking up directly to 5V and GND from Arduino. It worked.
 
-2.2 See if I can slow down the motor using analogWrite(). Need a transistor. 
+2.2. See if I can slow down the motor using analogWrite(). Need a transistor. 
 
 By trial and error I discoverd that the slowest I could go was 220!
 
-2.3 To avoid running into the end I added a switch and the necessary
+2.3. To avoid running into the end I added a switch and the necessary
 [code](code/testMotorWithSwitch/testMotorWithSwitch.ino)
 
-2.4 Build a frame and attach first sensor. Use analogReadSerial example to make
+2.4. Build a frame and attach first sensor. Use analogReadSerial example to make
 sure reading changes properly. Discovered I needed a tube to block ambient light.
 
-2.5 discovered motor has to move really slowly or sensor reading isn't caught!
+2.5. discovered motor has to move really slowly or sensor reading isn't caught!
 added serial.println() in order to catch that
 
 discovered light went through gaps in mechamism so had to add a solid block.
