@@ -230,9 +230,13 @@ The schedule is subject to change
 	- Conditionals
 	- Soldering
 - Demonstration
-	- Case study of constructing mechatronics contraption
+	- Case study of [constructing mechatronics
+		contraption](caseStudy/buildingAContraption)
 - Homework:
-	- Add sensors to your contraption to detect and stop at two positions
+	- Add a switch to your contraption so it moves only when you press the
+		switch
+	- Add some sensor so your contraption stops moving
+		when it reaches the sensor
 	- Video/images of your project
 	- __Schematic__ diagram
 	- Code
