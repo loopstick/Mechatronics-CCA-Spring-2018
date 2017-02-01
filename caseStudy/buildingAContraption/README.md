@@ -24,26 +24,32 @@ Problem: Terribly unstable, sensors almost never activated
 the mechanism was attached to a metal dowel, it always moved exactly in the
 same line. I figured this would help my sensors sense more reliably.
 
-2.1. Test motor by hooking up directly to 5V and GND from Arduino. It worked.
+  1. Test motor by hooking up directly to 5V and GND from Arduino. It worked.
 
-2.2. See if I can slow down the motor using analogWrite(). Need a transistor. 
+  2. See if I can slow down the motor using analogWrite(). Need a transistor. 
 
-By trial and error I discoverd that the slowest I could go was 220!
+By trial and error I discovered that the slowest I could go was 220!
 
-2.3. To avoid running into the end I added a switch and the necessary
+  3. To avoid the motor always running I added a switch and the necessary
 [code](code/testMotorWithSwitch/testMotorWithSwitch.ino)
 
-2.4. Build a frame and attach first sensor. Use analogReadSerial example to make
+  4. Build a frame and attach sensor. Use analogReadSerial example to make
 sure reading changes properly. Discovered I needed a tube to block ambient light.
 
-2.5. discovered motor has to move really slowly or sensor reading isn't caught!
-added serial.println() in order to catch that
+  5. Discovered motor has to move really slowly or sensor reading isn't caught!
+Added serial.println() in order to catch that
 
-discovered light went through gaps in mechamism so had to add a solid block.
-now can go faster. also made mistakes in code. finally 
-[code](code/testMotorWithLightSensor/testMotorWithLightSensor.ino)
+  6. Discovered light went through gaps in mechanism so added foam core to
+block the light.
+Now can go faster. This lead me to notice a mistakes in my program. Here is
+the final
+[program](code/testMotorWithLightSensor/testMotorWithLightSensor.ino)
 
+Here is the final schematic 
+![](images/arduinoMotor5V_schem.png)
 
+And here is the breadboard view
+![](images/arduinoMotor5V_bb.png)
 
 
 Lessons learned:
@@ -53,11 +59,17 @@ can take it apart
 
 2. don't overthink - start building quickly
 
-3. don't ever put electronics underneath or in a covered area - you will need
+3. Test each component (motor, switch, sensor) separately and then combine
+code for the whole project
+
+3. don't put electronics underneath or in a covered area - you will need
 easy access
 
-4. Arduino takes awhile to respond. 
-	- Either make motion really slow 
+4. Arduino takes time to respond to a sensor. 
+	- Either make motion slow 
 		or make sure sensor is activated for a long time
 	- Make sure sensor isn't too close to the end so if it keeps moving a bit
 		nothing breaks
+
+5. Take a picture or video of your project as soon as it works in case it
+breaks
