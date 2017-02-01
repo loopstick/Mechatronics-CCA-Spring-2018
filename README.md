@@ -228,9 +228,9 @@ The schedule is subject to change
 		light sensors, IR proximity, reed switches, magnets)
 - Hands-on activity
 	- Conditionals
-	- Soldering
 - Demonstration
-	- Case study of [constructing mechatronics
+	- Case study of 
+		[constructing mechatronics
 		contraption](caseStudy/buildingAContraption)
 - Homework:
 	- Add a switch to your contraption so it moves only when you press the
@@ -243,9 +243,15 @@ The schedule is subject to change
 
 ###Week 4: Tuesday, February 7, 2017
 - Project critique
+- Review
+	- Schematics symbols
+	- Circuit and code of 
+		[mechatronics
+		contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
 	- Autonomy
 	- Complex control
+	- Soldering
 - Homework: 
 	- Build a simple electrical drawing machine
 
