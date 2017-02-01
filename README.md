@@ -203,7 +203,6 @@ The schedule is subject to change
 	- Transistors and Motors 
 	- Capacitors if necessary
 
-#### current homework assignment
 - Homework:
 	- Review the Basic Arduino
 	  [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
@@ -232,6 +231,8 @@ The schedule is subject to change
 	- Case study of 
 		[constructing mechatronics
 		contraption](caseStudy/buildingAContraption)
+
+#### current homework assignment
 - Homework:
 	- Study the schematic and the code for the contraption I showed in class. 
 		It is all detailed [here](caseStudy/buildingAContraption)
