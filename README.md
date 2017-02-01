@@ -243,7 +243,7 @@ The schedule is subject to change
 		- Switches look like this: ![](images/momentarySwitch.jpg)
 		- Switches are in this cabinet: ![](images/momentarySwitchCabinet.jpg)
 		- The cabinet is located on this wall:
-			![](images/momentarySwitchLocation.jpg)
+			![](images/momentarySwitchCabinetLocation.jpg)
 		- Switches are in a drawer labeled _momentary switch_:
 			![](images/momentarySwitchDrawer.jpg)
 	- Take a short video of your project 
