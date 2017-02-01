@@ -233,13 +233,24 @@ The schedule is subject to change
 		[constructing mechatronics
 		contraption](caseStudy/buildingAContraption)
 - Homework:
-	- Add a switch to your contraption so it moves only when you press the
-		switch
-	- Add some sensor so your contraption stops moving
-		when it reaches the sensor
-	- Video/images of your project
-	- __Schematic__ diagram
-	- Code
+	- Study the schematic and the code for the contraption I showed in class. 
+		It is all detailed [here](caseStudy/buildingAContraption)
+	- Study the Arduino Button
+		[tutorial](https://www.arduino.cc/en/Tutorial/Button)
+	- Using the case study as an example,
+		add a switch to your contraption so it moves only when you press the
+		switch is pressed. 
+		- Switches look like this: ![](images/momentarySwitch.jpg)
+		- Switches are in this cabinet: ![](images/momentarySwitchCabinet.jpg)
+		- The cabinet is located on this wall:
+			![](images/momentarySwitchLocation.jpg)
+		- Switches are in a drawer labeled _momentary switch_:
+			![](images/momentarySwitchDrawer.jpg)
+	- Take a short video of your project 
+		and upload it to your Github repository
+	- Hand draw a __schematic__ diagram of your circuit 
+		take a picture of your schematic (phone is fine)
+		and upload it to your Github repository. 
 
 ###Week 4: Tuesday, February 7, 2017
 - Project critique
