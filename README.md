@@ -255,6 +255,7 @@ The schedule is subject to change
 
 ###Week 4: Tuesday, February 7, 2017
 - Project critique
+- Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Review
 	- Schematics symbols
 	- Circuit and code of 
