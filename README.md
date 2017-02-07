@@ -264,6 +264,8 @@ The schedule is subject to change
 	- Autonomy
 	- Complex control
 	- Soldering
+	- [Construction
+		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
 - Homework: 
 	- Build a simple electrical drawing machine
 
