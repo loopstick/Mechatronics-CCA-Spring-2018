@@ -262,18 +262,25 @@ The schedule is subject to change
 		[mechatronics
 		contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
-	- Autonomy
-	- Complex control
 	- Soldering
-	- [Construction
-		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
 - Homework: 
-	- Build a simple electrical drawing machine
+	- Build a simple electrical drawing machine. 
+		The only requirement is that it is somehow motorized and that 
+		it leaves a mark on a piece of paper.
+		You may use Arduino if you wish, 
+		but you are not required to. 
+		You may use sensors if you wish, 
+		but you are not required to. 
+		Your drawing may be as complex or as simple as you wish.
 
 ###Week 5: Tuesday, February 14, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
 	- Electronic construction techniques
+	- Autonomy
+	- Complex control
+	- [Construction
+		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
 - Homework: 
 	- Build an electrical vehicle
 		- Either autonomous or wired remote control
