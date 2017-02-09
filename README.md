@@ -231,8 +231,6 @@ The schedule is subject to change
 	- Case study of 
 		[constructing mechatronics
 		contraption](caseStudy/buildingAContraption)
-
-#### current homework assignment
 - Homework:
 	- Study the schematic and the code for the contraption I showed in class. 
 		It is all detailed [here](caseStudy/buildingAContraption)
@@ -259,12 +257,14 @@ The schedule is subject to change
 - Review
 	- Schematics symbols
 		- We will use this symbol for our transistors:
-			![](https://en.wikipedia.org/wiki/File:Mosfet_N-Ch_Sedra.svg)
+![](https://en.wikipedia.org/wiki/File:Mosfet_N-Ch_Sedra.svg)
 	- Circuit and code of 
 		[mechatronics
 		contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
 	- Soldering
+
+#### current homework assignment
 - Homework: 
 	- Build a simple electrical drawing machine. 
 		The only requirement is that it is somehow motorized and that 
