@@ -256,8 +256,6 @@ The schedule is subject to change
 - Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Review
 	- Schematics symbols
-		- We will use this symbol for our transistors:
-![](https://en.wikipedia.org/wiki/File:Mosfet_N-Ch_Sedra.svg)
 	- Circuit and code of 
 		[mechatronics
 		contraption](caseStudy/buildingAContraption)
