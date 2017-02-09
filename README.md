@@ -258,6 +258,8 @@ The schedule is subject to change
 - Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Review
 	- Schematics symbols
+		- We will use this symbol for our transistors:
+			![](https://en.wikipedia.org/wiki/File:Mosfet_N-Ch_Sedra.svg)
 	- Circuit and code of 
 		[mechatronics
 		contraption](caseStudy/buildingAContraption)
@@ -341,9 +343,8 @@ Interface show, Saturday May 6th
 [Alexander M. Kane](https://github.com/alexmkane)  
 [Alexander E. Kozachek](https://github.com/AeKozachek/HW1)  
 [Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
-Dan Qian    
-[Jeffrey Stone](https://github.com/JeffreyStone/jeffrey)    
-Hao Sui    
+[Dan Qian (Dawn)](https://github.com/danqian)  
+[Hao Sui (Evan)](https://github.com/evansui)
 [Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
 [Yan Yan](https://github.com/yyanyan/yan)  
 Bhavin  
