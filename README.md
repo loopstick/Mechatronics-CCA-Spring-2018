@@ -276,9 +276,11 @@ The schedule is subject to change
 ###Week 5: Tuesday, February 14, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
-	- Electronic construction techniques
-	- Autonomy
+	- Servo motor, stepper motor
+	- Blink without delay
+		[tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 	- Complex control
+	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
 - Homework: 
