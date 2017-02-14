@@ -276,6 +276,7 @@ The schedule is subject to change
 ###Week 5: Tuesday, February 14, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
+	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
 	- Blink without Delay
 		[tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
 	- Multitasking 
@@ -284,11 +285,11 @@ The schedule is subject to change
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
-	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
 	- Time permitting, show-and-tell box
 - Homework: 
 	- Build an electrical vehicle
-		- Either autonomous or wired remote control
+		- Must be able to steer in one way or another
+		- Can be either autonomous or wired remote control
 
 ###Week 6: Tuesday, February 21, 2017
 - Work week (I will be out of town)
