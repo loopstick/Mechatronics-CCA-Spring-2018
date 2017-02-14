@@ -276,13 +276,14 @@ The schedule is subject to change
 ###Week 5: Tuesday, February 14, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
-	- Servo motor, stepper motor
-	- Blink without delay
+	- Multitasking 
 		[tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-	- Complex control
+	- Complex control [example](examples/multitasking/multitasking.pde)
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
+	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
+	- Time permitting, show-and-tell box
 - Homework: 
 	- Build an electrical vehicle
 		- Either autonomous or wired remote control
