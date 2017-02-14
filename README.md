@@ -278,7 +278,7 @@ The schedule is subject to change
 - Lecture/Demonstration/Hands-on activity
 	- Multitasking 
 		[tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-	- Complex control [example](examples/multitasking/multitasking.pde)
+	- Complex control [example](examples/multitasking/multitasking.ino)
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
