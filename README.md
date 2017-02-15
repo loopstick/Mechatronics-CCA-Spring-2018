@@ -261,8 +261,6 @@ The schedule is subject to change
 		contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
 	- Soldering
-
-#### current homework assignment
 - Homework: 
 	- Build a simple electrical drawing machine. 
 		The only requirement is that it is somehow motorized and that 
@@ -285,17 +283,47 @@ The schedule is subject to change
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
-	- Time permitting, show-and-tell box
+
+#### current homework assignment
 - Homework: 
-	- Build an electrical vehicle
+	- Put a picture and a short video of your drawing machine in your Github
+		repository
+		- Make a new folder in your Github repository for the drawing
+			machine project
+	- Build an electrical vehicle (2 week project)
 		- Must be able to steer in one way or another
 		- Can be either autonomous or wired remote control
+			- Autonomous: Arduino decides what to do
+			- Remote controlled: User tells it what to do 
+			- Wired remote control: Whatever the user interacts with (e.g.
+				pushbuttons or a joy stick) is connected to the vehicle by wires
+			- Wireless remote control: Whatever the user interacts with 
+				communicates wirelessly (e.g. Bluetooth, WiFi, or InfraRed) with the
+				vehicle. This is complicated and not recommended at this time.
+			- Hint: Autonomous is easier because you don't have to build a user
+				interface
+		- Remember the principle of _Minimum Viable Product_. First get the basics 
+			working, then, if you have time, add other features
+		- This is a 2 week project. You should have a pretty solid
+			prototype or first draft working by next week. Use class next
+			week as an opportunity to solve problems.
+		- You may check out servo motors and motor shields from the Hybrid Lab if
+			you wish
+		- As always
+			- Email me if you have questions
+			- Remember my office hours 3-3:30 on Tuesdays and Thursdays, and 
+				at other times if you email me to set it up (but not next week).
+			- Make a new folder on your Github repository for this project
+			- Put your code in that folder. 
+			- Put a schematic in that folder. Hand drawn is fine.  
+				If you want to use the schematic capture program that
+				I use, get it [here](http:fritzing.org)
 
 ###Week 6: Tuesday, February 21, 2017
-- Work week (I will be out of town)
+- Work week with Special Guest Lecturer (attendance is mandatory)
 
 ###Week 7: Tuesday, February 28, 2017
-- Project critique
+- Vehicle Project critique
 -	Midterm evaluations (2/20-3/3)
 
 ###Week 8: Tuesday, March 7, 2017
