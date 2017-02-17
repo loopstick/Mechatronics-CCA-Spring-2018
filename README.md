@@ -318,6 +318,12 @@ The schedule is subject to change
 			- Put a schematic in that folder. Hand drawn is fine.  
 				If you want to use the schematic capture program that
 				I use, get it [here](http:fritzing.org)
+	- Additional resources:
+		- [Summer
+			Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
+		- [H-bridge
+			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
+			reverse your motors, although you are not required to do this)
 
 ###Week 6: Tuesday, February 21, 2017
 - Work week with Special Guest Lecturer (attendance is mandatory)
