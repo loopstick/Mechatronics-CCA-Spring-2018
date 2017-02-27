@@ -333,16 +333,20 @@ The schedule is subject to change
 	- 120 minutes / 13 students = 9 minutes each
 
 #### current homework assignment
-- Homework due __this week__
-	- Write a class and personal self-evaluation, 
+- Homework due __this week__ Friday March 3 at noon. 
+	- Write a course- and self-evaluation, 
 		email to me by Friday March 3 at noon. 
-		No late assignments will be accepted.
+		__No late assignments will be accepted.__
 		- Personal self-evaluation
 			- What have you learned?
 			- What are your goals for the rest of the semester?
 			- What obstacles will you face in achieving these goals?
 			- How do you plan to overcome those obstacles?
-		- Class evaluation
+			- How would you grade your vehicle? 
+			- What would you have done differently
+				if you had to do the vehicle assignment over again?
+		- Course evaluation
+			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
