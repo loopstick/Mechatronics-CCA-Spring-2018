@@ -283,8 +283,6 @@ The schedule is subject to change
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
-
-#### current homework assignment
 - Homework: 
 	- Put a picture and a short video of your drawing machine in your Github
 		repository
@@ -329,26 +327,53 @@ The schedule is subject to change
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
 ###Week 7: Tuesday, February 28, 2017
-- Vehicle Project critique
--	Midterm evaluations (2/20-3/3)
+- Vehicle Project critique 12-1pm
+	- 60 minutes / 13 students = 4.6 minutes each
+-	Midterm evaluations (2/20-3/3) 1-3pm
+	- 120 minutes / 13 students = 9 minutes each
+
+#### current homework assignment
+- Homework due __this week__
+	- Write a class and personal self-evaluation, 
+		email to me by Friday March 3 at noon. 
+		No late assignments will be accepted.
+		- Personal self-evaluation
+			- What have you learned?
+			- What are your goals for the rest of the semester?
+			- What obstacles will you face in achieving these goals?
+			- How do you plan to overcome those obstacles?
+		- Class evaluation
+			- What would you like to change in the course material?
+			- What would you like to change in the way the material is delivered?
+			- What would you add to this class?
+			- What would you remove from this class?
 
 ###Week 8: Tuesday, March 7, 2017
 - Lecture/Demonstration/Hands-on activity
+	- Complexity
+	- Digital Read
+		- Edge detection
+		- Debouncing
+	- Arrays
+	- Review classes and objects, perhaps with Processing
 	- Debugging
-	- Test equipement
+	- Test equipment
+
+###Week 9: Tuesday, March 14, 2017
+- Lecture
+	- Introduce final projects 
 - Homework
   - Final project proposals
 
-###Week 9: Tuesday, March 14, 2017
-- Critique proposals
-- Start working: Research, mock-ups, test ideas and concepts
-
 ###Spring Break: Tuesday, March 21, 2017
-- Research, mock-ups, test ideas and concepts
 
 ###Week 10: Tuesday, March 28, 2017
+- Critique proposals
+- Start working: Research, mock-ups, test ideas and concepts
+- Homework: 
+	- Research, mock-ups, test ideas and concepts
+	- __Working__ mock-up by April 4
 - Work: test, repair, iterate
-- Homework: __Working__ mock-up by next week
 
 ###Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
@@ -378,11 +403,11 @@ Interface show, Saturday May 6th
 [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
 [Benner Boswell](https://github.com/bennerboswell)  
 [Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
-[Alexander M. Kane](https://github.com/alexmkane)  
+[Alexander M. Kane](https://github.com/alexmkane/mechatronics)  
 [Alexander E. Kozachek](https://github.com/AeKozachek/HW1)  
 [Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
-[Dan Qian (Dawn)](https://github.com/danqian)  
-[Hao Sui (Evan)](https://github.com/evansui)
+[Dan Qian (Dawn)](https://github.com/danqian/homework1)  
+[Hao Sui (Evan)](https://github.com/evansui/homework)
 [Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
 [Yan Yan](https://github.com/yyanyan/yan)  
-Bhavin  
+[Bhavin](https://github.com/bhavinnagda)  
