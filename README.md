@@ -402,7 +402,7 @@ Interface show, Saturday May 6th
 
 ## Student Repositories
 
-[Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)
+[Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
 [Xueting Wang (Vivian)](https://github.com/vivwang/hw1)  
 [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
