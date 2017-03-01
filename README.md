@@ -417,4 +417,4 @@ Interface show, Saturday May 6th
 [Yan Yan](https://github.com/yyanyan/yan)  
 [Bhavin](https://github.com/bhavinnagda)  
 
-[link[(20170131_121904.mp4) to movie
+[link](20170131_121904.mp4) to movie
