@@ -382,6 +382,11 @@ The schedule is subject to change
 		(https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
 	- Soldering:
 		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+- Addendum: Homework due next week: Github seems to have repaired their
+	file upload problem. Please try to upload your images and videos 
+	and let me know if you have any problems.
+	If you don't have any problems then you must have your videos and images
+	uploaded by our next meeting on Tuesday March 7.
 
 ###Week 8: Tuesday, March 7, 2017
 - Lecture/Demonstration/Hands-on activity
