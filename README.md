@@ -389,7 +389,7 @@ The schedule is subject to change
 	uploaded by our next meeting on Tuesday March 7.
 
 ###Week 8: Tuesday, March 7, 2017
-- Lecture/Demonstration/Hands-on activity
+- Lecture
 	- Complexity
 	- Digital Read
 		- Edge detection
@@ -397,7 +397,18 @@ The schedule is subject to change
 	- Arrays
 	- Review classes and objects, perhaps with Processing
 	- Debugging
+	- Construction techniques, esp. 
+		- soldering to components
+		- solid/stranded wire
+- Hands-on activity
+	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
+		- Use DMM to measure voltage from potentiometer
+	- Arduino/Processing communication
+		- Send value from Arduino to Processing
+- Time permitting
+	- How to read a datasheet
+	- Shields again
 
 ###Week 9: Tuesday, March 14, 2017
 - Lecture
