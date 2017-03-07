@@ -390,16 +390,19 @@ The schedule is subject to change
 
 ###Week 8: Tuesday, March 7, 2017
 - Lecture
-	- Complexity
-	- Digital Read
-		- Edge detection
-		- Debouncing
-	- Arrays
-	- Review classes and objects, perhaps with Processing
-	- Debugging
+	- Coding
+		- Arrays
+		- Functions
+		- Libraries
+		- Digital Read
+			- Edge detection
+			- Debouncing
+			- Counting and modulo
+		- Debugging
 	- Construction techniques, esp. 
 		- soldering to components
 		- solid/stranded wire
+	- Review classes and objects, perhaps with Processing
 - Hands-on activity
 	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
