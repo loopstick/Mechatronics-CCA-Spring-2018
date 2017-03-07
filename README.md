@@ -395,7 +395,6 @@ The schedule is subject to change
 	- Programming, examples, electronics
 - Lecture
 	- Coding
-		- Arrays
 		- Functions
 		- Libraries
 		- Digital Read
@@ -405,6 +404,7 @@ The schedule is subject to change
 		- Structuring code
 			- Flow chart
 			- Pseudo-code
+		- Arrays
 		- Debugging
 	- Construction techniques, esp. 
 		- soldering to components
