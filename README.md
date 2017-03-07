@@ -389,6 +389,10 @@ The schedule is subject to change
 	uploaded by our next meeting on Tuesday March 7.
 
 ###Week 8: Tuesday, March 7, 2017
+- Evaluation feedback
+	- Some of you were late. This will affect your grade.
+	- English
+	- Programming, examples, electronics
 - Lecture
 	- Coding
 		- Arrays
@@ -398,31 +402,41 @@ The schedule is subject to change
 			- Edge detection
 			- Debouncing
 			- Counting and modulo
+		- Structuring code
+			- Flow chart
+			- Pseudo-code
 		- Debugging
 	- Construction techniques, esp. 
 		- soldering to components
 		- solid/stranded wire
 	- Review classes and objects, perhaps with Processing
 - Hands-on activity
+	- Upload images and video in class
 	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
 		- Use DMM to measure voltage from potentiometer
 	- Arduino/Processing communication
 		- Send value from Arduino to Processing
 - Time permitting
+	- Basic electronics
+		- Accepting that some things take longer to learn than we have time for
 	- How to read a datasheet
 	- Shields again
+	- Wifi, Bluetooth, XBee, and other
+	- Fritzing, Othermill
+- Homework
+  - Final project concepts
+		- Must be substantially more complex
 
 ###Week 9: Tuesday, March 14, 2017
-- Lecture
-	- Introduce final projects 
+- Critique proposal concepts
 - Homework
-  - Final project proposals
+  - Final project proposals and prototype
+		- flow charts, block diagrams, and pseudo-code
 
 ###Spring Break: Tuesday, March 21, 2017
 
 ###Week 10: Tuesday, March 28, 2017
-- Critique proposals
 - Start working: Research, mock-ups, test ideas and concepts
 - Homework: 
 	- Research, mock-ups, test ideas and concepts
