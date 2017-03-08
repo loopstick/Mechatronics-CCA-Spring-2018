@@ -331,8 +331,6 @@ The schedule is subject to change
 	- 60 minutes / 13 students = 4.6 minutes each
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	- 120 minutes / 13 students = 9 minutes each
-
-#### current homework assignment
 - Homework due __this week__ Friday March 3 at noon. 
 	- Write a course- and self-evaluation, 
 		email to me by Friday March 3 at noon. 
@@ -354,34 +352,10 @@ The schedule is subject to change
 - Homework due next week. Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
-	- Edge detection:
-		[this] 
-		(https://www.arduino.cc/en/Tutorial/StateChangeDetection)
-		, [this] 
-		(http://www.ladyada.net/learn/arduino/lesson5.html)
-		, and
-		[this]
-		(https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/)
-	- Debouncing: [this](https://www.arduino.cc/en/tutorial/debounce)
-	- Arrays:
-		[this]
-		(https://www.tutorialspoint.com/arduino/arduino_arrays.htm)
-		, [this]
-		(https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/)
-		, [this]
-		(https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/)
-		, [this]
-		(http://www.thebox.myzen.co.uk/Tutorial/Arrays.html)
-		, and [this]
-		(https://www.arduino.cc/en/Tutorial/Arrays)
-	- Test equipment:
-		[this]
-		(https://learn.adafruit.com/multimeters?view=all)
-		and
-		[this]
-		(https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
-	- Soldering:
-		[this](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+	Read about Edge Detection and Debouncing, Arrays, Debugging, and Soldering 
+	in our 
+	[resources](https://github.com/michaelshiloh/resourcesForClasses)
+	page. 
 - Addendum: Homework due next week: Github seems to have repaired their
 	file upload problem. Please try to upload your images and videos 
 	and let me know if you have any problems.
@@ -397,39 +371,70 @@ The schedule is subject to change
 	- Coding
 		- Functions
 		- Libraries
-		- Digital Read
+		- Arrays
+		- Structuring code
+			- (Flow chart)
+			- Pseudo-code
+- Hands-on activity
+	- Servo knob and sweep tutorials
+
+#### current homework assignment
+- Homework
+	1. I have added links to some resources on functions and arrays to our
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		page. Please read so that you understand functions better.
+		If you prefer videos please search for them and let me know if you find
+		anything good.
+	3. Check out a servo motor and get a momentary pushbutton switch from the 
+			Hybrid Lab. Write a program to do the following:
+		1. Create an array of 5 integers 
+		2. Initialize the array with 5 arbitrary values between 0 and 180
+		3. Each time the button is pressed turn the servo motor 
+			to the next entry in the array. You will need to use the 
+			edge detection techniques you read about for this week. If you have
+			questions about this ask me.
+		4. When you reach the last entry in the array, with the next button press
+			start over at the beginning.
+		5.  Upload this proposal to your Github repository 
+			in a new folder called "week8"
+  4. Write a concept proposal for your final project
+			which must be substantially more complex than the exercises we've done in
+			class. 
+			Upload this proposal to your Github repository 
+			in a new folder called "finalProject"
+	5. Read the Processing resources
+		shown on our
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		page
+	5. Read the Classes and Objects resources
+		shown on our
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		page
+
+###Week 9: Tuesday, March 14, 2017
+- Homework review
+- Critique proposal concepts
+- Lecture
+		- Digital Read, if necessary
 			- Edge detection
 			- Debouncing
 			- Counting and modulo
-		- Structuring code
-			- Flow chart
-			- Pseudo-code
-		- Arrays
 		- Debugging
 	- Construction techniques, esp. 
 		- soldering to components
 		- solid/stranded wire
-	- Review classes and objects, perhaps with Processing
-- Hands-on activity
-	- Upload images and video in class
-	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
-	- Test equipment
-		- Use DMM to measure voltage from potentiometer
 	- Arduino/Processing communication
 		- Send value from Arduino to Processing
-- Time permitting
 	- Basic electronics
 		- Accepting that some things take longer to learn than we have time for
 	- How to read a datasheet
 	- Shields again
 	- Wifi, Bluetooth, XBee, and other
 	- Fritzing, Othermill
-- Homework
-  - Final project concepts
-		- Must be substantially more complex
-
-###Week 9: Tuesday, March 14, 2017
-- Critique proposal concepts
+- Hands-on activity
+	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
+	- Test equipment
+		- Use DMM to measure voltage from potentiometer
 - Homework
   - Final project proposals and prototype
 		- flow charts, block diagrams, and pseudo-code
