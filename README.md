@@ -416,9 +416,9 @@ The schedule is subject to change
 - Critique proposal concepts
 - Lecture
 		- Digital Read, if necessary
-			- Edge detection
-			- Debouncing
-			- Counting and modulo
+		- Edge detection
+		- Debouncing
+		- Counting and modulo
 		- Debugging
 	- Construction techniques, esp. 
 		- soldering to components
@@ -435,6 +435,7 @@ The schedule is subject to change
 	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
 		- Use DMM to measure voltage from potentiometer
+	- Fritzing
 - Homework
   - Final project proposals and prototype
 		- flow charts, block diagrams, and pseudo-code
