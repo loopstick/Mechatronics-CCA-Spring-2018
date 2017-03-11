@@ -402,11 +402,11 @@ The schedule is subject to change
 			class. 
 			Upload this proposal to your Github repository 
 			in a new folder called "finalProject"
-  5. Read the Processing resources
+  5. Read the __Processing__ resources
 		shown on our
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 		page
-  5. Read the Classes and Objects resources
+  5. Read the __Classes and Objects__ resources
 		shown on our
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 		page
