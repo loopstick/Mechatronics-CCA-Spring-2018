@@ -395,7 +395,7 @@ The schedule is subject to change
 			questions about this ask me.
 		4. When you reach the last entry in the array, with the next button press
 			start over at the beginning.
-		5.  Upload this proposal to your Github repository 
+		5. Upload this program to your Github repository 
 			in a new folder called "week8"
   4. Write a concept proposal for your final project
 			which must be substantially more complex than the exercises we've done in
@@ -412,7 +412,16 @@ The schedule is subject to change
 		page
 
 ###Week 9: Tuesday, March 14, 2017
-- Homework review
+- Homework critique
+	- Well organized Github repositories
+	- Follow all steps
+	- Good description
+	- Programs:
+		- Well organized
+		- Properly indented
+		- Meaningful comments
+		- Unused variables and statements should be removed
+	- You will be graded on these points
 - Critique proposal concepts
 - Lecture
 		- Digital Read, if necessary
@@ -420,18 +429,23 @@ The schedule is subject to change
 		- Debouncing
 		- Counting and modulo
 		- Debugging
+	- Arduino/Processing communication
+		- Send value from Arduino to Processing
 	- Construction techniques, esp. 
 		- soldering to components
 		- solid/stranded wire
-	- Arduino/Processing communication
-		- Send value from Arduino to Processing
+	- Shields again
+	- Fritzing, Othermill
 	- Basic electronics
 		- Accepting that some things take longer to learn than we have time for
 	- How to read a datasheet
-	- Shields again
 	- Wifi, Bluetooth, XBee, and other
-	- Fritzing, Othermill
 - Hands-on activity
+	- Sensor (accelerometer, sound) and LCD display
+		- sensors
+		- complex program
+		- combining examples
+		- functions
 	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
 		- Use DMM to measure voltage from potentiometer
@@ -439,6 +453,7 @@ The schedule is subject to change
 - Homework
   - Final project proposals and prototype
 		- flow charts, block diagrams, and pseudo-code
+	- Improve all your homework according to the feedback I've given you
 
 ###Spring Break: Tuesday, March 21, 2017
 
