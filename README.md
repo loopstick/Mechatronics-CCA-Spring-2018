@@ -451,8 +451,16 @@ The schedule is subject to change
 		- Use DMM to measure voltage from potentiometer
 	- Fritzing
 - Homework
+	- Complete the homework assignment from last week
+		- When the button is pressed and held down, the servo motor should only
+			advance once when the button is pressed and then not advance any more
+			until the button is released and pressed again
   - Final project proposals and prototype
-		- flow charts, block diagrams, and pseudo-code
+		- Research 
+		- Order or check out equipment
+		- Create a very clear project description identifying the Minimal Viable
+			Project and optional add-ons
+			- Include flow charts, block diagrams, and pseudo-code
 	- Improve all your homework according to the feedback I've given you
 
 ###Spring Break: Tuesday, March 21, 2017
