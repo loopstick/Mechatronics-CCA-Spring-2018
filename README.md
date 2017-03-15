@@ -425,7 +425,7 @@ The schedule is subject to change
 		- When the button is pressed and held down, the servo motor should only
 			advance once when the button is pressed and then not advance any more
 			until the button is released and pressed again
-  - Final project proposals and prototype
+	- Final project proposals and prototype
 		- Build a prototype to verify the most difficult part of your project
 		- Research 
 		- Order or check out equipment
