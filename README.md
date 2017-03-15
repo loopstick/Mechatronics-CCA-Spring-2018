@@ -377,8 +377,6 @@ The schedule is subject to change
 			- Pseudo-code
 - Hands-on activity
 	- Servo knob and sweep tutorials
-
-#### current homework assignment
 - Homework
 	1. I have added links to some resources on functions and arrays to our
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
@@ -413,22 +411,40 @@ The schedule is subject to change
 
 ###Week 9: Tuesday, March 14, 2017
 - Homework critique
-	- Well organized Github repositories
-	- Follow all steps
-	- Good description
-	- Programs:
-		- Well organized
-		- Properly indented
-		- Meaningful comments
-		- Unused variables and statements should be removed
-	- You will be graded on these points
-- Critique proposal concepts
 - Lecture
 		- Digital Read, if necessary
 		- Edge detection
 		- Debouncing
 		- Counting and modulo
 		- Debugging
+- Critique proposal concepts
+
+#### current homework assignment
+- Homework
+	- Complete the programming assignment from last week
+		- When the button is pressed and held down, the servo motor should only
+			advance once when the button is pressed and then not advance any more
+			until the button is released and pressed again
+  - Final project proposals and prototype
+		- Build a prototype to verify the most difficult part of your project
+		- Research 
+		- Order or check out equipment
+		- Create a very clear project description identifying the Minimal Viable
+			Project and optional add-ons
+			- Include flow charts, block diagrams, and pseudo-code
+	- Improve the quality of your work on Github
+		- Well organized Github folders, good folder and file names
+		- Good descriptions for each assignment
+		- Programs should be:
+			- Well organized
+			- Properly indented
+			- Must include meaningful comments
+			- Unused variables and statements should be removed
+		- You will be graded on these points
+
+###Spring Break: Tuesday, March 21, 2017
+
+###Week 10: Tuesday, March 28, 2017
 	- Arduino/Processing communication
 		- Send value from Arduino to Processing
 	- Construction techniques, esp. 
@@ -450,23 +466,6 @@ The schedule is subject to change
 	- Test equipment
 		- Use DMM to measure voltage from potentiometer
 	- Fritzing
-- Homework
-	- Complete the homework assignment from last week
-		- When the button is pressed and held down, the servo motor should only
-			advance once when the button is pressed and then not advance any more
-			until the button is released and pressed again
-  - Final project proposals and prototype
-		- Research 
-		- Order or check out equipment
-		- Create a very clear project description identifying the Minimal Viable
-			Project and optional add-ons
-			- Include flow charts, block diagrams, and pseudo-code
-	- Improve all your homework according to the feedback I've given you
-
-###Spring Break: Tuesday, March 21, 2017
-
-###Week 10: Tuesday, March 28, 2017
-- Start working: Research, mock-ups, test ideas and concepts
 - Homework: 
 	- Research, mock-ups, test ideas and concepts
 	- __Working__ mock-up by April 4
