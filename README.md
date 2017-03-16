@@ -1,9 +1,9 @@
 # Mechatronics-Spring-2017
-##Mechatronics at California College of the Arts, Spring 2017 
+## Mechatronics at California College of the Arts, Spring 2017 
 
 [Current Homework Assignment](#current-homework-assignment)
 
-###Syllabus
+### Syllabus
 
 * Title: Mechatronics (Graduate Design)
 * Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
@@ -12,12 +12,12 @@
 	* Tuesdays and Thursdays 3:00 - 3:30
 	* And at other times by appointment
 
-####Goals
+#### Goals
 My goal is to teach you how to design, build, and debug mechatronic devices. 
 I want to make the course as interesting and relevant as possible for you, 
 so please ask questions and bring up topics you are curious about.
 
-####Github and Class Repository
+#### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
 https://github.com/michaelshiloh/Mechatronics-Spring-2017
 
@@ -29,18 +29,18 @@ changes — take advantage of this feature!
 You will be required to create your own repository for handing in homework and
 for project documentation. 
 
-####Required Textbook
+#### Required Textbook
 No textbook is required, but there are many good online references and a
 few good books out there I can recommend. We also have a good assortment of
 books in the library.
 
-####Prerequisites
+#### Prerequisites
 * Basic algebra. You should be comfortable with simple equations,
 manipulating numbers, fractions, solving for variables, and the
 engineering prefixes (micro, milli, kilo, mega, etc.)
 * Some understanding of geometry will also be helpful.
 
-####Requirements and Expectations
+#### Requirements and Expectations
 * Always bring your computer to class. If you don’t have a computer,
 check one out from the Media Center. You will need a computer to
 participate, and your grade will be negatively affected if you don’t bring
@@ -60,7 +60,7 @@ don’t be late. These are not requests, these are requirements.
 * You are responsible for checking your email and the class repository
 for updates.
 
-####Access & Wellness Services
+#### Access & Wellness Services
 CCA says:
 > Students with disabilities, including disabilities that are not clearly
 > evident like chronic diseases or learning disabilities are encouraged
@@ -77,13 +77,13 @@ coaches, the Learning Resource Center, and talk to me if you feel you are
 struggling with the material — I can help you do better in this class, but
 only if you let me know you need help.
 
-####Class Format
+#### Class Format
 Sessions will be a mix of lectures, guided labs, and independent work time.
 Homework will require research, analysis, and experimentation.
 Engineering always takes more time than you think — please make sure to
 give yourself enough time!
 
-####Grading
+#### Grading
 I will consider the various components of the class in roughly the following proportions:
 * 25% Homework & Assignments
 * 40% Projects and Project Documentation
@@ -113,7 +113,7 @@ Substantial problems exist in your work.
 
 **F: Fail.** You did not submit work, or work is below unsatisfactory level.
 
-#####Words of Advice
+##### Words of Advice
 Exploration is a key part of this class. You’ll get more out of your work if
 you
 give yourself extra time and have patience. Sometimes you’ll hit a dead
@@ -123,7 +123,7 @@ This class should be both fun and intense. It’s most fun when you enjoy
 what you’re working on, so make a point of taking some time to explore
 projects you make want to work on in the future!
 
-####Required equipment
+#### Required equipment
 - Arduino.cc Uno R3 e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
 	[Adafruit](https://www.adafruit.com/products/50)). 
@@ -150,7 +150,7 @@ Local stores that should carry all these are:
 * I mentioned [Fry's Electronics](www.frys.com) (various locations in South Bay) in class 
 but I'm not sure that they carry the official Arduino.
 
-####Optional equipment
+#### Optional equipment
 As you develop your projects and interests, you might need to purchase
 additional components and devices. This is impossible to predict as the range
 of projects you might approach are indeed infinite. At the low end, you can
@@ -174,11 +174,11 @@ is to consider that there is a relationship between time,
 money, and features. You can choose any two of them, and the
 third will grow (or shrink) to accommodate.
 
-###Schedule
+### Schedule
 
 The schedule is subject to change
 
-###Week 1: Tuesday, January 17, 2017
+### Week 1: Tuesday, January 17, 2017
 - Introductions
 - Interests and goals
 - Lecture/Demonstration/Hands-on activity
@@ -193,7 +193,7 @@ The schedule is subject to change
 		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 		and email me the URL to your repository
 
-###Week 2: Tuesday, January 24, 2017
+### Week 2: Tuesday, January 24, 2017
 - Announcements
 	- Review schedule
 	- Hybrid Lab behavior
@@ -220,7 +220,7 @@ The schedule is subject to change
 		of the motor and doesn't change anything:
 		[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
 
-###Week 3: Tuesday, January 31, 2017
+### Week 3: Tuesday, January 31, 2017
 - Homework Critique
 - Lecture/Demonstration
 	- Sensors (limit switches, 
@@ -251,7 +251,7 @@ The schedule is subject to change
 		take a picture of your schematic (phone is fine)
 		and upload it to your Github repository. 
 
-###Week 4: Tuesday, February 7, 2017
+### Week 4: Tuesday, February 7, 2017
 - Project critique
 - Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Review
@@ -271,7 +271,7 @@ The schedule is subject to change
 		but you are not required to. 
 		Your drawing may be as complex or as simple as you wish.
 
-###Week 5: Tuesday, February 14, 2017
+### Week 5: Tuesday, February 14, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
 	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
@@ -323,10 +323,10 @@ The schedule is subject to change
 			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
 			reverse your motors, although you are not required to do this)
 
-###Week 6: Tuesday, February 21, 2017
+### Week 6: Tuesday, February 21, 2017
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
-###Week 7: Tuesday, February 28, 2017
+### Week 7: Tuesday, February 28, 2017
 - Vehicle Project critique 12-1pm
 	- 60 minutes / 13 students = 4.6 minutes each
 -	Midterm evaluations (2/20-3/3) 1-3pm
@@ -362,7 +362,7 @@ The schedule is subject to change
 	If you don't have any problems then you must have your videos and images
 	uploaded by our next meeting on Tuesday March 7.
 
-###Week 8: Tuesday, March 7, 2017
+### Week 8: Tuesday, March 7, 2017
 - Evaluation feedback
 	- Some of you were late. This will affect your grade.
 	- English
@@ -409,7 +409,7 @@ The schedule is subject to change
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 		page
 
-###Week 9: Tuesday, March 14, 2017
+### Week 9: Tuesday, March 14, 2017
 - Homework critique
 - Lecture
 		- Digital Read, if necessary
@@ -442,9 +442,9 @@ The schedule is subject to change
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-###Spring Break: Tuesday, March 21, 2017
+### Spring Break: Tuesday, March 21, 2017
 
-###Week 10: Tuesday, March 28, 2017
+### Week 10: Tuesday, March 28, 2017
 	- Arduino/Processing communication
 		- Send value from Arduino to Processing
 	- Construction techniques, esp. 
@@ -471,23 +471,23 @@ The schedule is subject to change
 	- __Working__ mock-up by April 4
 - Work: test, repair, iterate
 
-###Week 11: Tuesday, April 4, 2017
+### Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
 - Lecture: Minimal Viable Project (MVP)
 - Debug and refine mockup, start on prototype
 - Homework: __Working__ minimal viable project due week 13
 
-###Week 12: Tuesday, April 11, 2017
+### Week 12: Tuesday, April 11, 2017
 	- Passover: work week
 
-###Week 13: Tuesday, April 18, 2017
+### Week 13: Tuesday, April 18, 2017
 - Demonstrate working minimal viable project
 - Homework: Refine
 
-###Week 14: Tuesday, April 25, 2017
+### Week 14: Tuesday, April 25, 2017
 - Final project critique
 
-###Week 15: Tuesday, May 2, 2017
+### Week 15: Tuesday, May 2, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
 Interface show, Saturday May 6th
