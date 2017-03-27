@@ -445,26 +445,32 @@ The schedule is subject to change
 ### Spring Break: Tuesday, March 21, 2017
 
 ### Week 10: Tuesday, March 28, 2017
-	- Arduino/Processing communication
-		- Send value from Arduino to Processing
-	- Construction techniques, esp. 
-		- soldering to components
-		- solid/stranded wire
-	- Shields again
+- Lecture
 	- Fritzing, Othermill
 	- Basic electronics
-		- Accepting that some things take longer to learn than we have time for
 	- How to read a datasheet
 	- Wifi, Bluetooth, XBee, and other
-- Hands-on activity
+		- Bluetooth
+			[tutorial](http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino)
+			__Don't solder the module to your project! Add the appropriate header to
+			mate with the module.__
 	- Sensor (accelerometer, sound) and LCD display
 		- sensors
 		- complex program
 		- combining examples
 		- functions
-	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Test equipment
 		- Use DMM to measure voltage from potentiometer
+- Hands-on Demo
+	- Arduino/Processing communication
+		- Send value from Arduino to Processing
+	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
+	- Construction techniques
+		- Prototyping shields
+			- When is it OK to use solid core wires
+		- Mounting modules using headers
+		- Attaching wires to header pins and sockets 
+			- When must you use stranded wires
 	- Fritzing
 - Homework: 
 	- Research, mock-ups, test ideas and concepts
