@@ -447,13 +447,19 @@ The schedule is subject to change
 ### Week 10: Tuesday, March 28, 2017
 - Lecture
 	- Fritzing, Othermill
+		[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
 	- Basic electronics
 	- How to read a datasheet
-	- Wifi, Bluetooth, XBee, and other
+	- Wireless
+		- Wifi
+			- Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
+			- Arduino [MKR1000](https://www.arduino.cc/en/Guide/MKR1000)
 		- Bluetooth
 			[tutorial](http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino)
 			__Don't solder the module to your project! Add the appropriate header to
 			mate with the module.__
+		- Sparkfun XBee
+			[tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
 	- Sensor (accelerometer, sound) and LCD display
 		- sensors
 		- complex program
