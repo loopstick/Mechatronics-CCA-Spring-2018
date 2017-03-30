@@ -418,8 +418,6 @@ The schedule is subject to change
 		- Counting and modulo
 		- Debugging
 - Critique proposal concepts
-
-#### current homework assignment
 - Homework
 	- Complete the programming assignment from last week
 		- When the button is pressed and held down, the servo motor should only
@@ -448,8 +446,6 @@ The schedule is subject to change
 - Lecture
 	- Fritzing, Othermill
 		[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
-	- Basic electronics
-	- How to read a datasheet
 	- Wireless
 		- Wifi
 			- Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
@@ -465,28 +461,33 @@ The schedule is subject to change
 		- complex program
 		- combining examples
 		- functions
-	- Test equipment
-		- Use DMM to measure voltage from potentiometer
 - Hands-on Demo
 	- Arduino/Processing communication
 		- Send value from Arduino to Processing
-	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 	- Construction techniques
 		- Prototyping shields
 			- When is it OK to use solid core wires
 		- Mounting modules using headers
-		- Attaching wires to header pins and sockets 
-			- When must you use stranded wires
 	- Fritzing
+
+#### current homework assignment
 - Homework: 
-	- Research, mock-ups, test ideas and concepts
-	- __Working__ mock-up by April 4
-- Work: test, repair, iterate
+	- Read the Processing resources in 
+		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+	- Build a working part of your project and demonstrate it in class next week
 
 ### Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
-- Lecture: Minimal Viable Project (MVP)
-- Debug and refine mockup, start on prototype
+- Lecture: 
+	- Minimal Viable Project (MVP)
+	- Basic electronics
+	- How to read a datasheet
+	- Test equipment
+		- Use DMM to measure voltage from potentiometer
+	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
+- Demo
+		- Attaching wires to header pins and sockets 
+			- When must you use stranded wires
 - Homework: __Working__ minimal viable project due week 13
 
 ### Week 12: Tuesday, April 11, 2017
