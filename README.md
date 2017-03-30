@@ -474,7 +474,9 @@ The schedule is subject to change
 - Homework: 
 	- Read the Processing resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
-	- Build a working part of your project and demonstrate it in class next week
+	- Build any working part of your project 
+		(preferably the part you are most concerned about)
+		and demonstrate it in class next week
 
 ### Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
