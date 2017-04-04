@@ -480,19 +480,8 @@ The schedule is subject to change
 
 ### Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
-- Lecture: 
-	- Basic electronics
-		- Voltage, current, resistance
-		- Voltage drop over any components
-		- Common voltage (parallel)
-		- Common current (series)
-		- Digital Multimeter (DMM)
-	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
 - Reminder
 	- I am out of town next week but we do have a substitute
-- Demo
-		- Attaching wires to header pins and sockets 
-			- When must you use stranded wires
 - Homework: __Working__ minimal viable project due week 13
 
 ### Week 12: Tuesday, April 11, 2017
