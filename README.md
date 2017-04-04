@@ -481,12 +481,15 @@ The schedule is subject to change
 ### Week 11: Tuesday, April 4, 2017
 - Critique working mock-up
 - Lecture: 
-	- Minimal Viable Project (MVP)
 	- Basic electronics
-	- How to read a datasheet
-	- Test equipment
-		- Use DMM to measure voltage from potentiometer
+		- Voltage, current, resistance
+		- Voltage drop over any components
+		- Common voltage (parallel)
+		- Common current (series)
+		- Digital Multimeter (DMM)
 	- Smoothing [tutorial](https://www.arduino.cc/en/tutorial/smoothing)
+- Reminder
+	- I am out of town next week but we do have a substitute
 - Demo
 		- Attaching wires to header pins and sockets 
 			- When must you use stranded wires
