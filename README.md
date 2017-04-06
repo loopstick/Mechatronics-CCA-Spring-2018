@@ -485,7 +485,7 @@ The schedule is subject to change
 - Homework: __Working__ minimal viable project due week 13 April 18
 
 ### Week 12: Tuesday, April 11, 2017
-	- Work week. Substitute teacher will help you with your projects
+- Work week. Substitute teacher will help you with your projects
 
 ### Week 13: Tuesday, April 18, 2017
 - Demonstrate working minimal viable project
