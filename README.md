@@ -482,7 +482,7 @@ The schedule is subject to change
 	- I am out of town next week but we do have a substitute
 
 #### current homework assignment
-- Homework: __Working__ minimal viable project due week 13
+- Homework: __Working__ minimal viable project due week 13 April 18
 
 ### Week 12: Tuesday, April 11, 2017
 	- Passover: work week
