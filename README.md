@@ -469,8 +469,6 @@ The schedule is subject to change
 			- When is it OK to use solid core wires
 		- Mounting modules using headers
 	- Fritzing
-
-#### current homework assignment
 - Homework: 
 	- Read the Processing resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
@@ -482,6 +480,8 @@ The schedule is subject to change
 - Critique working mock-up
 - Reminder
 	- I am out of town next week but we do have a substitute
+
+#### current homework assignment
 - Homework: __Working__ minimal viable project due week 13
 
 ### Week 12: Tuesday, April 11, 2017
