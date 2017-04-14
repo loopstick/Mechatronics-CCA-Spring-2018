@@ -480,12 +480,21 @@ The schedule is subject to change
 - Critique working mock-up
 - Reminder
 	- I am out of town next week but we do have a substitute
-
-#### current homework assignment
 - Homework: __Working__ minimal viable project due week 13 April 18
 
 ### Week 12: Tuesday, April 11, 2017
 - Work week. Substitute teacher will help you with your projects
+
+#### current homework assignment
+- Homework
+  - Read [Physical Computing’s Greatest Hits (and
+    misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
+    think about whether the your project is doing something in a meaningful or
+    unique way. Will someone want to play with your project for longer than
+    5 seconds? Why or why not?
+  - Minimal Viable Project is due April 21
+    - Simplify your project if necessary
+    - If it is too simple you will have one week to add complexity
 
 ### Week 13: Tuesday, April 18, 2017
 - Demonstrate working minimal viable project
@@ -493,6 +502,7 @@ The schedule is subject to change
 
 ### Week 14: Tuesday, April 25, 2017
 - Final project critique
+- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 
 ### Week 15: Tuesday, May 2, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
