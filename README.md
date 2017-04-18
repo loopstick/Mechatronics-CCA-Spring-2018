@@ -484,8 +484,6 @@ The schedule is subject to change
 
 ### Week 12: Tuesday, April 11, 2017
 - Work week. Substitute teacher will help you with your projects
-
-#### current homework assignment
 - Homework
   - Read [Physical Computing’s Greatest Hits (and
     misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
@@ -498,9 +496,11 @@ The schedule is subject to change
 
 ### Week 13: Tuesday, April 18, 2017
 - Demonstrate working minimal viable project
+- Work
 - Homework: Refine
 
 ### Week 14: Tuesday, April 25, 2017
+- Evaluations April 24 - May 10 
 - Final project critique
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 
