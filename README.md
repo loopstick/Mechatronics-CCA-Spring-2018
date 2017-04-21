@@ -498,7 +498,7 @@ The schedule is subject to change
 - Demonstrate working minimal viable project
 - Work
 
-#End of Semester Schedule
+### End of Semester Schedule
 - April 25: Final projects: Critique and deadline unless participating in
 	Interface Show
 - Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
