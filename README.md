@@ -498,23 +498,22 @@ The schedule is subject to change
 - Demonstrate working minimal viable project
 - Work
 
-#end-of-semester-schedule
-- Schedule:
-	- April 27: Final projects: Critique and deadline unless participating in
-		Interface Show
-	- Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
-	- Saturday May 6 at 4pm: Deadline for Interface Show installation
-	- May 6 Interface show 
-	- Project writeup due May 8 9am, all on Github
-		- Describe goals of project briefly
-		- Describe how, from a technical point of view, your choice of hardware
-			and software achieves that goal
-		- Accurate schematic
-		- Program(s) must be well commented 
-			- Each variable must have a meaningful name
-			- Each section (function, code block, loop, whatever) must be explained
-			- All unused variables and code must be removed (debugging code
-				commented out may remain)
+#End of Semester Schedule
+- April 25: Final projects: Critique and deadline unless participating in
+	Interface Show
+- Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
+- Saturday May 6 at 4pm: Deadline for Interface Show installation
+- May 6 Interface show 
+- Project writeup due May 8 9am, all on Github
+	- Describe goals of project briefly
+	- Describe how, from a technical point of view, your choice of hardware
+		and software achieves that goal
+	- Accurate schematic
+	- Program(s) must be well commented 
+		- Each variable must have a meaningful name
+		- Each section (function, code block, loop, whatever) must be explained
+		- All unused variables and code must be removed (debugging code
+			commented out may remain)
 
 ### Week 14: Tuesday, April 25, 2017
 - Evaluations April 24 - May 10 
