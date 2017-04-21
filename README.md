@@ -516,7 +516,6 @@ The schedule is subject to change
 			commented out may remain)
 
 ### Week 14: Tuesday, April 25, 2017
-- Evaluations April 24 - May 10 
 - Final project critique
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 
