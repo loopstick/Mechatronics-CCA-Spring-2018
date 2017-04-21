@@ -516,8 +516,8 @@ The schedule is subject to change
 			commented out may remain)
 
 ### Week 14: Tuesday, April 25, 2017
-- Final project critique
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
+- Final project critique
 
 ### Week 15: Tuesday, May 2, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
