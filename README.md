@@ -501,6 +501,9 @@ The schedule is subject to change
 
 ### Week 14: Tuesday, April 25, 2017
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
+- Review schedule 
+- Review Interface Show spreadsheet
+- Review final project writeup
 - Final project critique
 - Homework: Project writeup
 	- Project writeup due May 8 9am, all on Github
