@@ -498,26 +498,21 @@ The schedule is subject to change
 - Demonstrate working minimal viable project
 - Work
 
-### End of Semester Schedule
-- April 25: Final projects: Critique and deadline unless participating in
-	Interface Show
-- Monday May 1 at 11:59pm: Deadline for entry in the Interface Show
-- Saturday May 6 at 4pm: Deadline for Interface Show installation
-- May 6 Interface show 
-- Project writeup due May 8 9am, all on Github
-	- Describe goals of project briefly
-	- Describe how, from a technical point of view, your choice of hardware
-		and software achieves that goal
-	- Accurate schematic
-	- Program(s) must be well commented 
-		- Each variable must have a meaningful name
-		- Each section (function, code block, loop, whatever) must be explained
-		- All unused variables and code must be removed (debugging code
-			commented out may remain)
 
 ### Week 14: Tuesday, April 25, 2017
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Final project critique
+- Homework: Project writeup
+	- Project writeup due May 8 9am, all on Github
+		- Describe goals of project briefly
+		- Describe how, from a technical point of view, your choice of hardware
+			and software achieves that goal
+		- Accurate schematic
+		- Program(s) must be well commented 
+			- Each variable must have a meaningful name
+			- Each section (function, code block, loop, whatever) must be explained
+			- All unused variables and code must be removed (debugging code
+				commented out may remain)
 
 ### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
 
@@ -531,6 +526,8 @@ The schedule is subject to change
 ### Interface show, Oliver Art Center on the Oakland campus of CCA on Saturday May 6, 7-9:30PM
 
 ### Sunday May 7: Interface Show de-installation
+
+### Monday May 8 at 9am: Project writeup due 
 
 ## Student Repositories
 
