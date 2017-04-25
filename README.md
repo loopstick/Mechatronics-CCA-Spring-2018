@@ -519,10 +519,18 @@ The schedule is subject to change
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Final project critique
 
+### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
+
+### Monday May 1 - Saturday May 6: Interface Show Installation
+
 ### Week 15: Tuesday, May 2, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
-Interface show, Saturday May 6th
+### Saturday May 6 at 4pm: Deadline for project installation for Interface Show
+
+### Interface show, Oliver Art Center on the Oakland campus of CCA on Saturday May 6, 7-9:30PM
+
+### Sunday May 7: Interface Show de-installation
 
 ## Student Repositories
 
