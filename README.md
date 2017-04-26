@@ -505,7 +505,8 @@ The schedule is subject to change
 - Review Interface Show spreadsheet
 - Review final project writeup
 - Final project critique
-- Homework: Project writeup
+
+### Homework: Project writeup
 	- Project writeup due May 8 9am, all on Github
 		- Describe goals of project briefly
 		- Describe how, from a technical point of view, your choice of hardware
