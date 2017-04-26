@@ -511,11 +511,18 @@ The schedule is subject to change
 		- Describe how, from a technical point of view, your choice of hardware
 			and software achieves that goal
 		- Accurate schematic
+		- Parts list
+		- A few pictures of overall project plus some close ups of the electronics
+			and any mechanism (cellphone is fine) 
+		- A short video (cellphone is fine) of the operational project
 		- Program(s) must be well commented 
 			- Each variable must have a meaningful name
 			- Each section (function, code block, loop, whatever) must be explained
 			- All unused variables and code must be removed (debugging code
 				commented out may remain)
+- If you are participating in the Interface Show and have any parts checked
+	out from the Hybrid Lab you may give them to me after the show (with your
+	name somehow attached) and I will return them for you, if you wish.
 
 ### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
 
