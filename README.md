@@ -511,7 +511,7 @@ The schedule is subject to change
 		- Describe how, from a technical point of view, your choice of hardware
 			and software achieves that goal
 		- Accurate schematic
-		- Parts list
+		- Parts list (major or unique parts, not LEDs, wire, etc.)
 		- A few pictures of overall project plus some close ups of the electronics
 			and any mechanism (cellphone is fine) 
 		- A short video (cellphone is fine) of the operational project
