@@ -544,7 +544,7 @@ The schedule is subject to change
 
 [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
-[Xueting Wang (Vivian)](https://github.com/vivwang/hw1)  
+[Xueting Wang (Vivian)](https://github.com/vivwang)  
 [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
 [Benner Boswell](https://github.com/bennerboswell/week3-homework-)  
 [Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
