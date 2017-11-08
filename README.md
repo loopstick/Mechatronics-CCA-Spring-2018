@@ -178,7 +178,7 @@ third will grow (or shrink) to accommodate.
 
 The schedule is subject to change
 
-### Week 1: Tuesday, January 17, 2017
+### Week 1: Tuesday, January 16, 2017
 - Introductions
 - Interests and goals
 - Lecture/Demonstration/Hands-on activity
@@ -193,7 +193,7 @@ The schedule is subject to change
 		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 		and email me the URL to your repository
 
-### Week 2: Tuesday, January 24, 2017
+### Week 2: Tuesday, January 23, 2017
 - Announcements
 	- Review schedule
 	- Hybrid Lab behavior
@@ -220,7 +220,7 @@ The schedule is subject to change
 		of the motor and doesn't change anything:
 		[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
 
-### Week 3: Tuesday, January 31, 2017
+### Week 3: Tuesday, January 30, 2017
 - Homework Critique
 - Lecture/Demonstration
 	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
@@ -250,7 +250,7 @@ The schedule is subject to change
 		take a picture of your schematic (phone is fine)
 		and upload it to your Github repository. 
 
-### Week 4: Tuesday, February 7, 2017
+### Week 4: Tuesday, February 6, 2017
 - Project critique
 - Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
 - Review
@@ -270,7 +270,7 @@ The schedule is subject to change
 		but you are not required to. 
 		Your drawing may be as complex or as simple as you wish.
 
-### Week 5: Tuesday, February 14, 2017
+### Week 5: Tuesday, February 13, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
 	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
@@ -322,10 +322,10 @@ The schedule is subject to change
 			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
 			reverse your motors, although you are not required to do this)
 
-### Week 6: Tuesday, February 21, 2017
+### Week 6: Tuesday, February 20, 2017
 - Work week with Special Guest Lecturer (attendance is mandatory)
 
-### Week 7: Tuesday, February 28, 2017
+### Week 7: Tuesday, February 27, 2017
 - Vehicle Project critique 12-1pm
 	- 60 minutes / 13 students = 4.6 minutes each
 -	Midterm evaluations (2/20-3/3) 1-3pm
@@ -361,7 +361,7 @@ The schedule is subject to change
 	If you don't have any problems then you must have your videos and images
 	uploaded by our next meeting on Tuesday March 7.
 
-### Week 8: Tuesday, March 7, 2017
+### Week 8: Tuesday, March 6, 2017
 - Evaluation feedback
 	- Some of you were late. This will affect your grade.
 	- English
@@ -439,9 +439,9 @@ The schedule is subject to change
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Tuesday, March 21, 2017
+### Spring Break: Tuesday, March 20, 2017
 
-### Week 10: Tuesday, March 28, 2017
+### Week 10: Tuesday, March 27, 2017
 - Lecture
 	- Fritzing, Othermill
 		[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
@@ -475,13 +475,12 @@ The schedule is subject to change
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 11: Tuesday, April 4, 2017
+### Week 11: Tuesday, April 3, 2017
 - Critique working mock-up
-- Reminder
-	- I am out of town next week but we do have a substitute
+-
 - Homework: __Working__ minimal viable project due week 13 April 18
 
-### Week 12: Tuesday, April 11, 2017
+### Week 12: Tuesday, April 10, 2017
 - Work week. Substitute teacher will help you with your projects
 - Homework
   - Read [Physical Computing’s Greatest Hits (and
@@ -493,12 +492,12 @@ The schedule is subject to change
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
 
-### Week 13: Tuesday, April 18, 2017
+### Week 13: Tuesday, April 17, 2017
 - Demonstrate working minimal viable project
 - Work
 
 
-### Week 14: Tuesday, April 25, 2017
+### Week 14: Tuesday, April 24, 2017
 - Course evaluations April 24 (12:00am) - May 10 (11:59pm)
 - Review schedule 
 - Review Interface Show spreadsheet
@@ -506,7 +505,7 @@ The schedule is subject to change
 - Final project critique
 
 ### Homework: Project writeup
-- Project writeup due May 8 9am, all on Github
+- Project writeup due May 1 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
@@ -524,20 +523,14 @@ The schedule is subject to change
 	out from the Hybrid Lab you may give them to me after the show (with your
 	name somehow attached) and I will return them for you, if you wish.
 
-### Monday May 1 at 11:59pm: Deadline for putting information into the spreadsheet 
-
-### Monday May 1 - Saturday May 6: Interface Show Installation
-
-### Week 15: Tuesday, May 2, 2017
+### Week 15: Tuesday, May 1, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
-### Saturday May 6 at 4pm: Deadline for project installation for Interface Show
+### Interface show, Oliver Art Center on the Oakland campus 
 
-### Interface show, Oliver Art Center on the Oakland campus of CCA on Saturday May 6, 7-9:30PM
-
-### Sunday May 7: Interface Show de-installation
 
 ### Monday May 8 at 9am: Project writeup due 
+
 
 ## Student Repositories
 
