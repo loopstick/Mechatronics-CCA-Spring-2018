@@ -1,4 +1,4 @@
-# Mechatronics-Spring-2017
+# Mechatronics-Spring-2018
 ## Mechatronics at California College of the Arts, Spring 2017 
 
 [End of Semester schedule](#end-of-semester-schedule)
@@ -7,7 +7,7 @@
 
 * Title: Mechatronics (Graduate Design)
 * Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
-* Instructor: Michael Shiloh mshiloh@cca.edu
+* Instructor: Sudhu Tewari stewari@cca.edu or loopstick@hotmail.com
 * Office hours: 
 	* Tuesdays and Thursdays 3:00 - 3:30
 	* And at other times by appointment
@@ -223,8 +223,7 @@ The schedule is subject to change
 ### Week 3: Tuesday, January 31, 2017
 - Homework Critique
 - Lecture/Demonstration
-	- Sensors (limit switches, 
-		light sensors, IR proximity, reed switches, magnets)
+	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
 - Hands-on activity
 	- Conditionals
 - Demonstration
