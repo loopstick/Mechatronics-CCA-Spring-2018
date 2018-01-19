@@ -173,7 +173,7 @@ third will grow (or shrink) to accommodate.
 
 The schedule is subject to change
 
-### Week 1: Friday, January 19, 2017
+### Week 1: Friday, January 19, 2018
 - Introductions
 - Interests and goals
 - Lecture/Demonstration/Hands-on activity
@@ -188,7 +188,7 @@ The schedule is subject to change
   (https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
-### Week 2: Friday, January 26, 2017
+### Week 2: Friday, January 26, 2018
 - Announcements
 	- Review schedule
 	- Hybrid Lab behavior
@@ -212,7 +212,7 @@ The schedule is subject to change
 Here is an example Arduino program that just sets the speedof the motor and doesn't change anything:
 	[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
 
-### Week 3: Tuesday, January 30, 2017
+### Week 3: Friday, February 2, 2018
 - Homework Critique
 - Lecture/Demonstration
 	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
@@ -230,21 +230,21 @@ Here is an example Arduino program that just sets the speedof the motor and does
 	- Using the case study as an example,
 		add a switch to your contraption so it moves only when you press the
 		switch is pressed. 
-		- Switches look like this: ![](images/momentarySwitch.jpg)
+		- ~~Switches look like this: ![](images/momentarySwitch.jpg)
 		- Switches are in this cabinet: ![](images/momentarySwitchCabinet.jpg)
 		- The cabinet is located on this wall:
 			![](images/momentarySwitchCabinetLocation.jpg)
 		- Switches are in a drawer labeled _momentary switch_:
-			![](images/momentarySwitchDrawer.jpg)
+			![](images/momentarySwitchDrawer.jpg)~~
 	- Take a short video of your project 
 		and upload it to your Github repository
 	- Hand draw a __schematic__ diagram of your circuit 
 		take a picture of your schematic (phone is fine)
 		and upload it to your Github repository. 
 
-### Week 4: Tuesday, February 6, 2017
+### Week 4: Friday, February 9, 2018
 - Project critique
-- Github [resources](https://github.com/michaelshiloh/resourcesForClasses)
+- Github [resources](https://github.com/loopstick/ResourcesForClasses)
 - Review
 	- Schematics symbols
 	- Circuit and code of 
@@ -262,7 +262,9 @@ Here is an example Arduino program that just sets the speedof the motor and does
 		but you are not required to. 
 		Your drawing may be as complex or as simple as you wish.
 
-### Week 5: Tuesday, February 13, 2017
+## --------------------Everything after this is likely to change-----------------
+
+### Week 5: Friday, February 13, 2017
 - Project critique
 - Lecture/Demonstration/Hands-on activity
 	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
@@ -300,24 +302,24 @@ Here is an example Arduino program that just sets the speedof the motor and does
 			you wish
 		- As always
 			- Email me if you have questions
-			- Remember my office hours 3-3:30 on Tuesdays and Thursdays, and 
-				at other times if you email me to set it up (but not next week).
+			- Remember my office hours 3-3:30 on Thursdays, and 
+				at other times if you email me to set it up.
 			- Make a new folder on your Github repository for this project
 			- Put your code in that folder. 
 			- Put a schematic in that folder. Hand drawn is fine.  
 				If you want to use the schematic capture program that
-				I use, get it [here](http:fritzing.org)
+				I use, get it [here](http://fritzing.org)
 	- Additional resources:
-		- [Summer
+		~~- [Summer
 			Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
 		- [H-bridge
 			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
-			reverse your motors, although you are not required to do this)
+			reverse your motors, although you are not required to do this)~~
 
-### Week 6: Tuesday, February 20, 2017
-- Work week with Special Guest Lecturer (attendance is mandatory)
+### Week 6: Friday, February 20, 2017
+- Work week ~~with Special Guest Lecturer (attendance is mandatory)~~
 
-### Week 7: Tuesday, February 27, 2017
+### Week 7: Friday, February 27, 2017
 - Vehicle Project critique 12-1pm
 	- 60 minutes / 13 students = 4.6 minutes each
 -	Midterm evaluations (2/20-3/3) 1-3pm
@@ -345,7 +347,7 @@ Here is an example Arduino program that just sets the speedof the motor and does
 	understand everything, but it is not OK if you did not read:
 	Read about Edge Detection and Debouncing, Arrays, Debugging, and Soldering 
 	in our 
-	[resources](https://github.com/michaelshiloh/resourcesForClasses)
+	[resources](https://github.com/loopstick/ResourcesForClasses)
 	page. 
 - Addendum: Homework due next week: Github seems to have repaired their
 	file upload problem. Please try to upload your images and videos 
@@ -353,10 +355,9 @@ Here is an example Arduino program that just sets the speedof the motor and does
 	If you don't have any problems then you must have your videos and images
 	uploaded by our next meeting on Tuesday March 7.
 
-### Week 8: Tuesday, March 6, 2017
+### Week 8: Friday, March 6, 2017
 - Evaluation feedback
-	- Some of you were late. This will affect your grade.
-	- English
+	- Documentation!
 	- Programming, examples, electronics
 - Lecture
 	- Coding
@@ -370,7 +371,7 @@ Here is an example Arduino program that just sets the speedof the motor and does
 	- Servo knob and sweep tutorials
 - Homework
 	1. I have added links to some resources on functions and arrays to our
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		[resources](https://github.com/loopstick/ResourcesForClasses)
 		page. Please read so that you understand functions better.
 		If you prefer videos please search for them and let me know if you find
 		anything good.
@@ -393,20 +394,21 @@ Here is an example Arduino program that just sets the speedof the motor and does
 			in a new folder called "finalProject"
   5. Read the __Processing__ resources
 		shown on our
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		[resources](https://github.com/loopstick/ResourcesForClasses)
 		page
   5. Read the __Classes and Objects__ resources
 		shown on our
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)
+		[resources](https://github.com/loopstick/ResourcesForClasses)
 		page
 
-### Week 9: Tuesday, March 14, 2017
+### Week 9: Friday, March 16, 2018
 - Homework critique
 - Lecture
-		- Digital Read, if necessary
+		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/)
+			, if necessary
 		- Edge detection
 		- Debouncing
-		- Counting and modulo
+		- Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
 		- Debugging
 - Critique proposal concepts
 - Homework
@@ -431,18 +433,19 @@ Here is an example Arduino program that just sets the speedof the motor and does
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Tuesday, March 20, 2017
+## Week 10: Spring Break: No class Friday, March 23, 2018
 
-### Week 10: Tuesday, March 27, 2017
+### Week 11: Friday, March 30, 2018
 - Lecture
 	- Fritzing, Othermill
-		[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
+		~~[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)~~
 	- Wireless
 		- Wifi
 			- Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
 			- Arduino [MKR1000](https://www.arduino.cc/en/Guide/MKR1000)
 		- Bluetooth
-			[tutorial](http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino)
+			~~[tutorial](http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino)~~
+			 [tutorial (archived vesion)] https://web.archive.org/web/20170711222143/http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino
 			__Don't solder the module to your project! Add the appropriate header to
 			mate with the module.__
 		- Sparkfun XBee
@@ -467,12 +470,12 @@ Here is an example Arduino program that just sets the speedof the motor and does
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 11: Tuesday, April 3, 2017
+### Week 12: Friday, April 6, 2018
 - Critique working mock-up
 -
 - Homework: __Working__ minimal viable project due week 13 April 18
 
-### Week 12: Tuesday, April 10, 2017
+### Week 13: Friday, April 13, 2018
 - Work week. Substitute teacher will help you with your projects
 - Homework
   - Read [Physical Computing’s Greatest Hits (and
@@ -480,45 +483,43 @@ Here is an example Arduino program that just sets the speedof the motor and does
     think about whether the your project is doing something in a meaningful or
     unique way. Will someone want to play with your project for longer than
     5 seconds? Why or why not?
-  - Minimal Viable Project is due April 21
+  - Minimal Viable Project is due April 20
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
 
-### Week 13: Tuesday, April 17, 2017
+### Week 14: Friday, April 20, 2018
 - Demonstrate working minimal viable project
-- Work
+- Work on final project
 
 
-### Week 14: Tuesday, April 24, 2017
-- Course evaluations April 24 (12:00am) - May 10 (11:59pm)
+### Week 15: Friday, April 27, 2018
+- Course evaluations 
 - Review schedule 
-- Review Interface Show spreadsheet
+~~- Review Interface Show spreadsheet~~
 - Review final project writeup
 - Final project critique
 
 ### Homework: Project writeup
-- Project writeup due May 1 9am, all on Github
-	- Describe goals of project briefly
-	- Describe how, from a technical point of view, your choice of hardware
+- Project writeup due May 4 9am, all on Github
+  - Describe goals of project briefly
+  - Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
-	- Accurate schematic
-	- Parts list (major or unique parts, not LEDs, wire, etc.)
-	- A few pictures of overall project plus some close ups of the electronics
+  - Accurate schematic
+  - Parts list (major or unique parts, not LEDs, wire, etc.)
+  - A few pictures of overall project plus some close ups of the electronics
 		and any mechanism (cellphone is fine) 
-	- A short video (cellphone is fine) of the operational project
-	- Program(s) must be well commented 
-		- Each variable must have a meaningful name
-		- Each section (function, code block, loop, whatever) must be explained
-		- All unused variables and code must be removed (debugging code
+  - A short video (cellphone is fine) of the operational project
+  - Program(s) must be well commented 
+    - Each variable must have a meaningful name
+    - Each section (function, code block, loop, whatever) must be explained
+    - All unused variables and code must be removed (debugging code
 			commented out may remain)
-- If you are participating in the Interface Show and have any parts checked
-	out from the Hybrid Lab you may give them to me after the show (with your
-	name somehow attached) and I will return them for you, if you wish.
 
-### Week 15: Tuesday, May 1, 2017
+### Week 15: Friday, May 4, 2018
 - No class;  End of Year Reviews for Year Zero and Year One
 
-### Monday May 8 at 9am: Project writeup due 
+## Friday, May 4 at 9am: Project writeup due 
+
 
 ## Current Student Repositories
 
