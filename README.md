@@ -184,8 +184,7 @@ The schedule is subject to change
   - Build a mechanical contraption that is activated by a crank
   - Order the required equipment to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3. 
-  - Create your Github repository using [this guide]
-  (https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
+  - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
 ### Week 2: Friday, January 26, 2018
