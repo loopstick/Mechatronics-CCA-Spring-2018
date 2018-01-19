@@ -310,7 +310,7 @@ Here is an example Arduino program that just sets the speedof the motor and does
 				If you want to use the schematic capture program that
 				I use, get it [here](http://fritzing.org)
 	- Additional resources:
-		~~- [Summer
+		~~[Summer
 			Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
 		- [H-bridge
 			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
@@ -320,7 +320,7 @@ Here is an example Arduino program that just sets the speedof the motor and does
 - Work week ~~with Special Guest Lecturer (attendance is mandatory)~~
 
 ### Week 7: Friday, February 27, 2017
-- Vehicle Project critique 12-1pm
+- ~~Vehicle~~ Project critique 12-1pm
 	- 60 minutes / 13 students = 4.6 minutes each
 -	Midterm evaluations (2/20-3/3) 1-3pm
 	- 120 minutes / 13 students = 9 minutes each
@@ -437,33 +437,33 @@ Here is an example Arduino program that just sets the speedof the motor and does
 
 ### Week 11: Friday, March 30, 2018
 - Lecture
-	- Fritzing, Othermill
-		~~[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)~~
-	- Wireless
-		- Wifi
-			- Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
-			- Arduino [MKR1000](https://www.arduino.cc/en/Guide/MKR1000)
-		- Bluetooth
-			~~[tutorial](http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino)~~
-			 [tutorial (archived vesion)] https://web.archive.org/web/20170711222143/http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino
-			__Don't solder the module to your project! Add the appropriate header to
-			mate with the module.__
-		- Sparkfun XBee
-			[tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
-	- Sensor (accelerometer, sound) and LCD display
-		- sensors
-		- complex program
-		- combining examples
-		- functions
+  - Fritzing, Othermill
+    ~~[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)~~
+  - Wireless
+    - Wifi
+      - Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
+      - Arduino [MKR1000](https://www.arduino.cc/en/Guide/MKR1000)
+    - Bluetooth tutorial: http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino
+      - [archived 
+      	version](https://web.archive.org/web/20170711222143/http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino) 
+      - __Don't solder the module to your project! Add the appropriate header to mate with the module.__
+    - Sparkfun XBee
+      [tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
+  - Sensor (accelerometer, sound) and LCD display
+    - sensors
+    - complex program
+    - combining examples
+    - functions
 - Hands-on Demo
-	- Arduino/Processing communication
-		- Send value from Arduino to Processing
-	- Construction techniques
-		- Prototyping shields
-			- When is it OK to use solid core wires
-		- Mounting modules using headers
-	- Fritzing
-- Homework: 
+  - Arduino/Processing communication
+    - Send value from Arduino to Processing
+    - Construction techniques
+    - Prototyping shields
+      - When is it OK to use solid core wires
+      - Mounting modules using headers
+  - Fritzing
+  
+- **Homework:**
 	- Read the Processing resources in 
 		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 	- Build any working part of your project 
