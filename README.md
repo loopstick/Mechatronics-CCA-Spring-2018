@@ -1,7 +1,4 @@
-# Mechatronics-Spring-2018
-## Mechatronics at California College of the Arts, Spring 2017 
-
-[End of Semester schedule](#end-of-semester-schedule)
+## Mechatronics at California College of the Arts, Spring 2018
 
 ### Syllabus
 
