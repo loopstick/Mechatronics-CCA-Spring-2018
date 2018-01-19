@@ -176,7 +176,7 @@ third will grow (or shrink) to accommodate.
 
 The schedule is subject to change
 
-### Week 1: Tuesday, January 16, 2017
+### Week 1: Friday, January 19, 2017
 - Introductions
 - Interests and goals
 - Lecture/Demonstration/Hands-on activity
@@ -191,32 +191,29 @@ The schedule is subject to change
   (https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
-### Week 2: Tuesday, January 23, 2017
+### Week 2: Friday, January 26, 2017
 - Announcements
 	- Review schedule
 	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
-	- Basic Arduino
-		[Tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	- Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
 	- Transistors and Motors 
 	- Capacitors if necessary
-
 - Homework:
 	- Review the Basic Arduino
-	  [tutorial](http://teachmetomake.com/wordpress/arduino-hands-on-intro-workshop)
+	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
 		  we did in class. Read the entire tutorial, even the parts we didn't do
 	- You might want to refer to some other Arduino material. There is plenty
 		online, such as the Arduino Resources on
-		[this](https://github.com/michaelshiloh/resourcesForClasses)
+		[this](https://github.com/loopstick/ResourcesForClasses)
 		page
 	- Build a motorized mechanical contraption (either add a motor to last week's
 		assignment or build a new one). Control the speed of the motor using
 		analogWrite() to prevent damage to your contraption. I recommend starting
 		with a very slow speed at first.
 
-		I have created an example Arduino program that just sets the speed
-		of the motor and doesn't change anything:
-		[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
+Here is an example Arduino program that just sets the speedof the motor and doesn't change anything:
+	[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
 
 ### Week 3: Tuesday, January 30, 2017
 - Homework Critique
@@ -524,13 +521,14 @@ The schedule is subject to change
 ### Week 15: Tuesday, May 1, 2017
 - No class;  End of Year Reviews for Year Zero and Year One
 
-### Interface show, Oliver Art Center on the Oakland campus 
-
-
 ### Monday May 8 at 9am: Project writeup due 
 
+## Current Student Repositories
 
-## Student Repositories
+_coming soon!_
+
+
+## Past Student Repositories - for reference
 
 [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
