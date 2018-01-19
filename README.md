@@ -6,11 +6,11 @@
 ### Syllabus
 
 * Title: Mechatronics (Graduate Design)
-* Class: Tuesdays Noon - 3:00, Room 107 SF Main (SF Hybrid Lab)
+* Class: Friday 8:00am - 11:00am, Room 107 SF Main (SF Hybrid Lab)
 * Instructor: Sudhu Tewari stewari@cca.edu or loopstick@hotmail.com
 * Office hours: 
-	* Tuesdays and Thursdays 3:00 - 3:30
-	* And at other times by appointment
+	* Thursdays 3:00 - 3:30
+	* and at other times by appointment
 
 #### Goals
 My goal is to teach you how to design, build, and debug mechatronic devices. 
@@ -19,7 +19,7 @@ so please ask questions and bring up topics you are curious about.
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/michaelshiloh/Mechatronics-Spring-2017
+https://github.com/loopstick/Mechatronics-CCA-Spring-2018/
 
 The class repository will be used to assign homework and reading
 assignments, and will contain useful code, libraries, and links to other
@@ -140,14 +140,12 @@ Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
 fees, but do so immediately so we have the equipment on hand.
 
-Remember that Noam gave us
-a code that might be good for 10% educational discount at Adafruit. The
-code is ADAEDU
+*ADAEDU*: code that might be good for 10% educational discount at Adafruit.
 
 Local stores that should carry all these are:
-* [Jameco](www.jameco.com) in Belmont, just south of the SFO airport
-* [Al Lasher's Electronics](http://allashers.com/) in Berkeley
-* I mentioned [Fry's Electronics](www.frys.com) (various locations in South Bay) in class 
+* [Jameco](https://www.jameco.com) in Belmont, just south of the SFO airport
+* [Al Lasher's Electronics](https://http://allashers.com/) in Berkeley
+* I mentioned [Fry's Electronics](https://www.frys.com) (various locations in South Bay) in class 
 but I'm not sure that they carry the official Arduino.
 
 #### Optional equipment
@@ -182,16 +180,16 @@ The schedule is subject to change
 - Introductions
 - Interests and goals
 - Lecture/Demonstration/Hands-on activity
-	- Basic machines
-	- Construction techniques
-- [Resources](https://github.com/michaelshiloh/resourcesForClasses)
-- Homework:
-	- Build a mechanical contraption that is activated by a crank
-	- Order the required equipment to arrive no later than Friday January 27 so
+  - Basic machines
+  - Construction techniques
+- [Resources](https://github.com/loopstick/ResourcesForClasses)
+- **Homework:**
+  - Build a mechanical contraption that is activated by a crank
+  - Order the required equipment to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3. 
-	- Create your Github repository using [this
-		guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
-		and email me the URL to your repository
+  - Create your Github repository using [this guide]
+  (https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
+	and email me the URL to your repository
 
 ### Week 2: Tuesday, January 23, 2017
 - Announcements
