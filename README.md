@@ -194,9 +194,11 @@ The schedule is subject to change
 	- Review schedule
 	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
-	- Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-	- Transistors and Motors 
-	- Capacitors if necessary
+  - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+  - Transistors and Motors 
+    - Selecting the Correct Motor 
+    	[Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
+  - Capacitors if necessary
 - Homework:
 	- Review the Basic Arduino
 	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
