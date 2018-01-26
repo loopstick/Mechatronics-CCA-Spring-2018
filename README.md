@@ -179,19 +179,22 @@ The schedule is subject to change
 - Lecture/Demonstration/Hands-on activity
   - Basic machines
   - Construction techniques
-- [Resources](https://github.com/loopstick/ResourcesForClasses)
+-  Review[Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the Mechatronic Resources section
-  
 - **Homework:**
   - Build a mechanical contraption that is activated by a crank
-  - Order the required equipment to arrive no later than Friday January 27 so
+  - Order the required equipment (Arduino, motor, etc) to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3. 
+	- some motors are available for use in the Hybrid Lab
+	- Arduino Unos can be checked out from the Hybrid Lab
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
 ### Week 2: Friday, January 26, 2018
 - Announcements
-	- Review schedule
+-  Review[Resources](https://github.com/loopstick/ResourcesForClasses)
+  - especially the Mechatronic Resources section
+  
 	- Hybrid Lab behavior
 - Lecture/Demonstration/Hands-on activity
   - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
@@ -212,8 +215,8 @@ The schedule is subject to change
 		analogWrite() to prevent damage to your contraption. I recommend starting
 		with a very slow speed at first.
 
-Here is an example Arduino program that just sets the speedof the motor and doesn't change anything:
-	[setMotorSpeed](https://github.com/michaelshiloh/Mechatronics-Spring-2017/blob/master/examples/setMotorSpeed/setMotorSpeed.ino)
+Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
+	[setMotorSpeed](/examples/setMotorSpeed)
 
 ### Week 3: Friday, February 2, 2018
 - Homework Critique
