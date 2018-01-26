@@ -179,8 +179,9 @@ The schedule is subject to change
 - Lecture/Demonstration/Hands-on activity
   - Basic machines
   - Construction techniques
--  Review[Resources](https://github.com/loopstick/ResourcesForClasses)
-  - especially the Mechatronic Resources section
+- Review [Resources](https://github.com/loopstick/ResourcesForClasses)
+  - especially the Mechatronic Resources section  
+   
 - **Homework:**
   - Build a mechanical contraption that is activated by a crank
   - Order the required equipment (Arduino, motor, etc) to arrive no later than Friday January 27 so
