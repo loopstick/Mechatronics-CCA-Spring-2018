@@ -182,7 +182,7 @@ The schedule is subject to change
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the Mechatronic Resources section  
    
-- #### Homework:
+- **Homework:**
   - Build a mechanical contraption that is activated by a crank
   - Order the required equipment (Arduino, motor, etc) to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3. 
@@ -192,25 +192,29 @@ The schedule is subject to change
 	and email me the URL to your repository
 
 ### Week 2: Friday, January 26, 2018
-- Announcements
--  Review[Resources](https://github.com/loopstick/ResourcesForClasses)
+- Mechanical contraptions "critique"
+- Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the Mechatronic Resources section
-  
-	- Hybrid Lab behavior
+- Hybrid Lab tour: supplies and tools for use or checkout
 - Lecture/Demonstration/Hands-on activity
   - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
   - Transistors and Motors 
     - Selecting the Correct Motor 
-    	[Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
-  - Capacitors if necessary
-  
-- Homework:
+      - [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
+      - Capacitors if necessary
+    - Hybrid Lab motors
+      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
+      - In order to use these motors we need to solder wire leads to them and 
+      add strain relief for the connections with hot glue or tape _or else_
+      	- image here please
+  - Soldering Practice!
+
+- **Homework:**
 	- Review the Basic Arduino
 	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-		  we did in class. Read the entire tutorial, even the parts we didn't do
+	  we did in class. Read the entire tutorial, even the parts we didn't do
 	- You might want to refer to some other Arduino material. There is plenty
-		online, such as the Arduino Resources on
-		[this](https://github.com/loopstick/ResourcesForClasses)
+		online, such as the Arduino Resources on our class [Resources](https://github.com/loopstick/ResourcesForClasses)
 		page
 	- Build a motorized mechanical contraption (either add a motor to last week's
 		assignment or build a new one). Control the speed of the motor using
@@ -228,8 +232,7 @@ Here is an example Arduino program that just sets the speed of the motor and doe
 	- Conditionals
 - Demonstration
 	- Case study of 
-		[constructing mechatronics
-		contraption](caseStudy/buildingAContraption)
+		[constructing mechatronics contraption](caseStudy/buildingAContraption)
 - Homework:
 	- Study the schematic and the code for the contraption I showed in class. 
 		It is all detailed [here](caseStudy/buildingAContraption)
@@ -238,17 +241,9 @@ Here is an example Arduino program that just sets the speed of the motor and doe
 	- Using the case study as an example,
 		add a switch to your contraption so it moves only when you press the
 		switch is pressed. 
-		- ~~Switches look like this: ![](images/momentarySwitch.jpg)
-		- Switches are in this cabinet: ![](images/momentarySwitchCabinet.jpg)
-		- The cabinet is located on this wall:
-			![](images/momentarySwitchCabinetLocation.jpg)
-		- Switches are in a drawer labeled _momentary switch_:
-			![](images/momentarySwitchDrawer.jpg)~~
-	- Take a short video of your project 
-		and upload it to your Github repository
-	- Hand draw a __schematic__ diagram of your circuit 
-		take a picture of your schematic (phone is fine)
-		and upload it to your Github repository. 
+	- Take a short video of your project and upload it to your Github repository
+	- Hand draw a __schematic__ diagram of your circuit take a picture of your schematic 
+	(phone is fine) and upload it to your Github repository. 
 
 ### Week 4: Friday, February 9, 2018
 - Project critique
@@ -270,7 +265,7 @@ Here is an example Arduino program that just sets the speed of the motor and doe
 		but you are not required to. 
 		Your drawing may be as complex or as simple as you wish.
 
-## --------------------Everything after this is likely to change-----------------
+
 
 ### Week 5: Friday, February 13, 2017
 - Project critique
