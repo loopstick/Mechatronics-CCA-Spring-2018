@@ -182,7 +182,7 @@ The schedule is subject to change
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the Mechatronic Resources section  
    
-- **Homework:**
+- ####Homework:
   - Build a mechanical contraption that is activated by a crank
   - Order the required equipment (Arduino, motor, etc) to arrive no later than Friday January 27 so
 		that you can complete the homework for week 3. 
@@ -203,6 +203,7 @@ The schedule is subject to change
     - Selecting the Correct Motor 
     	[Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
   - Capacitors if necessary
+  
 - Homework:
 	- Review the Basic Arduino
 	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
