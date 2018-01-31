@@ -205,8 +205,11 @@ The schedule is subject to change
 	- You might want to refer to some other Arduino material. There is plenty
 		online, such as the Arduino Resources on our class [Resources](https://github.com/loopstick/ResourcesForClasses)
 		page
-	- Read about Motors: This [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
-	is a good start
+	- Read about Motors: 
+	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
+	  - [Using a Transistor to Control Hight Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+	  - How to Select the Right Motor: [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+	
       - Capacitors if necessary
 	- Begin thinking about a motorized contraption with simple user interaction functionality
 	- you may either add a motor and sensors to last week's assignment or build a new one
