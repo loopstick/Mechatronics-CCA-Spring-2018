@@ -198,17 +198,6 @@ The schedule is subject to change
 - Hybrid Lab tour: supplies and tools for use or checkout
 - Lecture/Demonstration/Hands-on activity
   - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-  - Transistors and Motors 
-    - Selecting the Correct Motor 
-      - [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
-      - Capacitors if necessary
-    - Hybrid Lab motors
-      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
-      - In order to use these motors we need to solder wire leads to them and 
-      add strain relief for the connections with hot glue or tape _or else_
-      	- image here please
-  - Soldering Practice!
-
 - **Homework:**
 	- Review the Basic Arduino
 	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
@@ -216,31 +205,43 @@ The schedule is subject to change
 	- You might want to refer to some other Arduino material. There is plenty
 		online, such as the Arduino Resources on our class [Resources](https://github.com/loopstick/ResourcesForClasses)
 		page
-	- Build a motorized mechanical contraption (either add a motor to last week's
-		assignment or build a new one). Control the speed of the motor using
-		analogWrite() to prevent damage to your contraption. I recommend starting
-		with a very slow speed at first.
-
-Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
-	[setMotorSpeed](/examples/setMotorSpeed)
-
+	- Read about Motors: This [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+	is a good start
+      - Capacitors if necessary
+	- Begin thinking about a motorized contraption with simple user interaction functionality
+	- you may either add a motor and sensors to last week's assignment or build a new one
+	- making the connection to a motor shaft can be challenging!
+	    
 ### Week 3: Friday, February 2, 2018
-- Homework Critique
 - Lecture/Demonstration
-	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
+  - Transistors and Motors 
+  - Selecting the Correct Motor 
+      - [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
+      - Capacitors if necessary
+  - Hybrid Lab motors
+      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
+      - In order to use these motors we need to solder wire leads to them and 
+      add strain relief for the connections with hot glue or tape _or else_
+      	- image here please
+  - Soldering Practice!
+
 - Hands-on activity
 	- Conditionals
 - Demonstration
 	- Case study of 
 		[constructing mechatronics contraption](caseStudy/buildingAContraption)
 - Homework:
-	- Study the schematic and the code for the contraption I showed in class. 
-		It is all detailed [here](caseStudy/buildingAContraption)
+	- Study the schematic and the code for the contraption detailed [here](caseStudy/buildingAContraption)
+	- Build a motorized mechanical contraption. Control the speed of the motor using
+		analogWrite() to prevent damage to your contraption. I recommend starting
+		with a very slow speed at first.
+	  - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
+	[setMotorSpeed](/examples/setMotorSpeed)
 	- Study the Arduino Button
 		[tutorial](https://www.arduino.cc/en/Tutorial/Button)
 	- Using the case study as an example,
 		add a switch to your contraption so it moves only when you press the
-		switch is pressed. 
+		switch is pressed. 	
 	- Take a short video of your project and upload it to your Github repository
 	- Hand draw a __schematic__ diagram of your circuit take a picture of your schematic 
 	(phone is fine) and upload it to your Github repository. 
@@ -250,10 +251,9 @@ Here is an example Arduino program that just sets the speed of the motor and doe
 - Github [resources](https://github.com/loopstick/ResourcesForClasses)
 - Review
 	- Schematics symbols
-	- Circuit and code of 
-		[mechatronics
-		contraption](caseStudy/buildingAContraption)
+	- Circuit and code of [mechatronics contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
+	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
 	- Soldering
 - Homework: 
 	- Build a simple electrical drawing machine. 
