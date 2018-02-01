@@ -528,12 +528,22 @@ The schedule is subject to change
 
 
 ## Current Student Repositories
+CCA Spring 2018 Mechtranics GitHub Repositories
 
-_coming soon!_
+Jiahao - 
+Kelly - 
+Jamie - 
+Patrick - 
+Yao - 
+Diqing -
+Ming -
+Peter -
+Chancie - https://github.com/Chancie-Zheng/Chancie.Z
+Andrew - https://github.com/Kimhangi
+
 
 
 ## Past Student Repositories - for reference
-
 [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
 [Xueting Wang (Vivian)](https://github.com/vivwang)  
