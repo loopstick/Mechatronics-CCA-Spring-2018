@@ -525,15 +525,24 @@ The schedule is subject to change
 ## Current Student Repositories
 CCA Spring 2018 Mechtranics GitHub Repositories
 
-Jiahao - 
+Jiahao - https://github.com/PlusWhy/Mechatronics
+
 Kelly - 
+
 Jamie - 
+
 Patrick - 
+
 Yao - 
+
 Diqing -
+
 Ming -
+
 Peter -
+
 Chancie - https://github.com/Chancie-Zheng/Chancie.Z
+
 Andrew - https://github.com/Kimhangi
 
 
