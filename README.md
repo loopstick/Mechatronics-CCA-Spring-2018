@@ -123,21 +123,22 @@ projects you make want to work on in the future!
 #### Required equipment
 - Arduino.cc Uno R3 e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
-	[Adafruit](https://www.adafruit.com/products/50)). 
+	[Adafruit](https://www.adafruit.com/products/50)) or [Sparkfun](https://www.sparkfun.com/products/11021). 
 	Must be the real thing, not be a clone or a compatible. 
 	Do not order from Amazon or Ebay.
 - Solderless breadboard, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
 - Full size USB cable (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
 - Pack of jumper wires e.g. from [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
+- Motors or Electro-Mechanical actuators
+- 5-12v power supply (capable of supply the power needs of your chosen motor/s)
 - Laptop (Windows, Linux, or Macintosh)
 - Dedicated notebook for class notes and project journal
 
 Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
 fees, but do so immediately so we have the equipment on hand.
-
-*ADAEDU*: code that might be good for 10% educational discount at Adafruit.
+The code: *ADAEDU* might be good for 10% educational discount at Adafruit.
 
 Local stores that should carry all these are:
 * [Jameco](https://www.jameco.com) in Belmont, just south of the SFO airport
@@ -180,7 +181,7 @@ The schedule is subject to change
   - Basic machines
   - Construction techniques
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
-  - especially the Mechatronic Resources section  
+  - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
    
 - **Homework:**
   - Build a mechanical contraption that is activated by a crank
@@ -194,7 +195,7 @@ The schedule is subject to change
 ### Week 2: Friday, January 26, 2018
 - Mechanical contraptions "critique"
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
-  - especially the Mechatronic Resources section
+  - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section
 - Hybrid Lab tour: supplies and tools for use or checkout
 - Lecture/Demonstration/Hands-on activity
   - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
@@ -210,10 +211,9 @@ The schedule is subject to change
 	  - [Using a Transistor to Control Hight Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 	  - How to Select the Right Motor: [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
 	
-      - Capacitors if necessary
 	- Begin thinking about a motorized contraption with simple user interaction functionality
 	- you may either add a motor and sensors to last week's assignment or build a new one
-	- making the connection to a motor shaft can be challenging!
+	- making the connection to a motor shaft can be challenging! Plan ahead, if you can!
 	    
 ### Week 3: Friday, February 2, 2018
 - Lecture/Demonstration
@@ -226,14 +226,12 @@ The schedule is subject to change
       - In order to use these motors we need to solder wire leads to them and 
       add strain relief for the connections with hot glue or tape _or else_
       	- image here please
-  - Soldering Practice!
-
+  - Case study of [constructing mechatronics contraption](caseStudy/buildingAContraption)
+   - Conditionals
 - Hands-on activity
-	- Conditionals
-- Demonstration
-	- Case study of 
-		[constructing mechatronics contraption](caseStudy/buildingAContraption)
-- Homework:
+  - Soldering Practice!
+  - Make your motors go!
+- **Homework:**
 	- Study the schematic and the code for the contraption detailed [here](caseStudy/buildingAContraption)
 	- Build a motorized mechanical contraption. Control the speed of the motor using
 		analogWrite() to prevent damage to your contraption. I recommend starting
@@ -258,7 +256,7 @@ The schedule is subject to change
 - Lecture/Demonstration/Hands-on activity
 	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
 	- Soldering
-- Homework: 
+- **Homework:** 
 	- Build a simple electrical drawing machine. 
 		The only requirement is that it is somehow motorized and that 
 		it leaves a mark on a piece of paper.
@@ -282,7 +280,7 @@ The schedule is subject to change
 	- Shields
 	- [Construction
 		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
-- Homework: 
+- **Homework:**
 	- Put a picture and a short video of your drawing machine in your Github
 		repository
 		- Make a new folder in your Github repository for the drawing
@@ -348,18 +346,15 @@ The schedule is subject to change
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
-- Homework due next week. Please read and try to understand as much as
+- **Homework due next week.** Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
-	Read about Edge Detection and Debouncing, Arrays, Debugging, and Soldering 
-	in our 
-	[resources](https://github.com/loopstick/ResourcesForClasses)
-	page. 
-- Addendum: Homework due next week: Github seems to have repaired their
-	file upload problem. Please try to upload your images and videos 
-	and let me know if you have any problems.
-	If you don't have any problems then you must have your videos and images
-	uploaded by our next meeting on Tuesday March 7.
+	Read about [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
+	and [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing), 
+	[Arrays](https://github.com/loopstick/ResourcesForClasses#arrays), 
+	[Debugging](https://github.com/loopstick/ResourcesForClasses#debugging), and 
+	[Soldering](https://github.com/loopstick/ResourcesForClasses#soldering) 
+	in our [resources](https://github.com/loopstick/ResourcesForClasses)page. 
 
 ### Week 8: Friday, March 6, 2017
 - Evaluation feedback
