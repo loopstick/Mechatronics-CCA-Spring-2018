@@ -204,8 +204,8 @@ The schedule is subject to change
 	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
 	  we did in class. Read the entire tutorial, even the parts we didn't do
 	- You might want to refer to some other Arduino material. There is plenty
-		online, such as the Arduino Resources on our class [Resources](https://github.com/loopstick/ResourcesForClasses)
-		page
+	online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) 
+	on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
 	- Read about Motors: 
 	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 	  - [Using a Transistor to Control Hight Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
@@ -227,7 +227,7 @@ The schedule is subject to change
       add strain relief for the connections with hot glue or tape _or else_
       	- image here please
   - Case study of [constructing mechatronics contraption](caseStudy/buildingAContraption)
-   - Conditionals
+  - Electronic Components [PowerPoint slides posted here](https://github.com/loopstick/Mechatronics-CCA-Spring-2018/blob/master/DrSudhu_ElecComponents_v2.pdf)
 - Hands-on activity
   - Soldering Practice!
   - Make your motors go!
@@ -251,11 +251,12 @@ The schedule is subject to change
 - Project critique
 - Github [resources](https://github.com/loopstick/ResourcesForClasses)
 - Review
-	- Schematics symbols
+	- Schematic symbols
 	- Circuit and code of [mechatronics contraption](caseStudy/buildingAContraption)
 - Lecture/Demonstration/Hands-on activity
 	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
 	- Soldering
+	- Conditionals
 - **Homework:** 
 	- Build a simple electrical drawing machine. 
 		The only requirement is that it is somehow motorized and that 
@@ -265,8 +266,6 @@ The schedule is subject to change
 		You may use sensors if you wish, 
 		but you are not required to. 
 		Your drawing may be as complex or as simple as you wish.
-
-
 
 ### Week 5: Friday, February 13, 2017
 - Project critique
@@ -527,19 +526,19 @@ CCA Spring 2018 Mechtranics GitHub Repositories
 
 Jiahao - https://github.com/PlusWhy/Mechatronics
 
-Kelly - 
+Kelly - https://github.com/krouser720/hw1
 
-Jamie - 
+Jamie - https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai
 
-Patrick - 
+Patrick - https://github.com/Patrick-Tingkai/Mechatronics
 
 Yao - 
 
-Diqing -
+Diqing - https://github.com/DiqingWWW/Mechantronics
 
 Ming - https://github.com/xmingzhang/Mechatronics-Spring-2018
 
-Peter -
+Peter - https://github.com/peterzhao1994/Peter
 
 Chancie - https://github.com/Chancie-Zheng/Chancie.Z
 
