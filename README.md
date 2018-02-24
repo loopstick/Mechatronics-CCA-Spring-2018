@@ -319,17 +319,16 @@ The schedule is subject to change
 			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
 			reverse your motors, although you are not required to do this)~~
 
-### Week 6: Friday, February 20, 2017
-- Work week ~~with Special Guest Lecturer (attendance is mandatory)~~
+### Week 6: Friday, February 23, 2017
+- Work week ~~with Special Guest Lecturer ~~
 
-### Week 7: Friday, February 27, 2017
-- ~~Vehicle~~ Project critique 12-1pm
-	- 60 minutes / 13 students = 4.6 minutes each
--	Midterm evaluations (2/20-3/3) 1-3pm
-	- 120 minutes / 13 students = 9 minutes each
-- Homework due __this week__ Friday March 3 at noon. 
+### Week 7: Friday, March 3, 2017
+- Vehicle Project critique 12-1pm
+- Midterm evaluations (2/20-3/3) 1-3pm
+
+- Homework due __this week__ Friday March 2 at noon. 
 	- Write a course- and self-evaluation, 
-		email to me by Friday March 3 at noon. 
+		email to me by Friday March 2 at 3pm. 
 		__No late assignments will be accepted.__
 		- Personal self-evaluation
 			- What have you learned?
@@ -405,7 +404,7 @@ The schedule is subject to change
 - Homework critique
 - Lecture
 		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/)
-			, if necessary
+		, if necessary
 		- Edge detection
 		- Debouncing
 		- Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
@@ -449,7 +448,7 @@ The schedule is subject to change
       - __Don't solder the module to your project! Add the appropriate header to mate with the module.__
     - Sparkfun XBee
       [tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
-  - Sensor (accelerometer, sound) and LCD display
+  - Sensors (accelerometer, sound) and LCD display
     - sensors
     - complex program
     - combining examples
@@ -476,7 +475,7 @@ The schedule is subject to change
 - Homework: __Working__ minimal viable project due week 13 April 18
 
 ### Week 13: Friday, April 13, 2018
-- Work week. Substitute teacher will help you with your projects
+- Work week. 
 - Homework
   - Read [Physical Computing’s Greatest Hits (and
     misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
