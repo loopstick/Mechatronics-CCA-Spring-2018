@@ -325,7 +325,8 @@ The schedule is subject to change
 - Midterm evaluations 1-3pm
 - Homework due today: Friday March 2. 
   - Write a course and self-evaluation, email it to me (stewari@cca.edu) by end of day. 
-  		- Personal self-evaluation
+  
+  			- Personal self-evaluation
 				- What have you learned?
 				- What are your goals for the rest of the semester?
 				- What obstacles will you face in achieving these goals?
