@@ -322,9 +322,10 @@ The schedule is subject to change
 
 ### Week 7: Friday, March 2, 2017
 - Vehicle Project presentation and critique 
+	Should we spend another week or two on this project???
 - Midterm evaluations 1-3pm
 - Homework due today: Friday March 2. 
-  - Write a course and self-evaluation, email it to me (stewari@cca.edu) by end of day. 
+  - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
   
   			- Personal self-evaluation
 				- What have you learned?
@@ -346,12 +347,11 @@ The schedule is subject to change
 - **Homework due next week.** Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
-	Read about [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-	and [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing), 
-	[Arrays](https://github.com/loopstick/ResourcesForClasses#arrays), 
-	[Debugging](https://github.com/loopstick/ResourcesForClasses#debugging), and 
-	[Soldering](https://github.com/loopstick/ResourcesForClasses#soldering) 
-	in our [resources](https://github.com/loopstick/ResourcesForClasses)page. 
+	Read about 
+	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
+	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
+	- [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
+	- [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) 
 
 ### Week 8: Friday, March 6, 2017
 - Evaluation feedback
