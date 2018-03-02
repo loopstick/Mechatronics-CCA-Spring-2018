@@ -322,7 +322,9 @@ The schedule is subject to change
 
 ### Week 7: Friday, March 2, 2017
 - Vehicle Project presentation and critique 
-	Should we spend another week or two on this project???
+							
+		Should we spend another week or two on this project???
+			
 - Midterm evaluations 1-3pm
 - Homework due today: Friday March 2. 
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
