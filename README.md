@@ -323,7 +323,7 @@ The schedule is subject to change
 ### Week 7: Friday, March 2, 2017
 - Vehicle Project presentation and critique 
 							
-		Should we spend another week or two on this project???
+		We'll spend another 2 weeks on this vehicle project
 			
 - Midterm evaluations 1-3pm
 - Homework due today: Friday March 2. 
@@ -349,7 +349,12 @@ The schedule is subject to change
 - **Homework due next week.** Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
+	
 	Read about 
+	H-Bridges: https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
+	
+	
+	OLD STUFF:
 	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
 	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
 	- [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
