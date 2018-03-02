@@ -324,20 +324,24 @@ The schedule is subject to change
 - Vehicle Project presentation and critique 
 - Midterm evaluations 1-3pm
 - Homework due today: Friday March 2. 
-	- Write a course- and self-evaluation, email it to me (stewari@cca.edu) by end of day. 
-			- Personal self-evaluation
+  - Write a course and self-evaluation, email it to me (stewari@cca.edu) by end of day. 
+  		- Personal self-evaluation
 				- What have you learned?
 				- What are your goals for the rest of the semester?
 				- What obstacles will you face in achieving these goals?
 				- How do you plan to overcome those obstacles?
 				- How would you grade your vehicle? 
 				- What would you have done differently if you had to do the vehicle assignment over again?
+				
+				
 			- Course evaluation
 				- What further would you like to learn in this course?
 				- What would you like to change in the course material?
 				- What would you like to change in the way the material is delivered?
 				- What would you add to this class?
 				- What would you remove from this class?
+				
+				
 - **Homework due next week.** Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
