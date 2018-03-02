@@ -313,37 +313,31 @@ The schedule is subject to change
 				If you want to use the schematic capture program that
 				I use, get it [here](http://fritzing.org)
 	- Additional resources:
-		~~[Summer
-			Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
-		- [H-bridge
-			tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
-			reverse your motors, although you are not required to do this)~~
+		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
+		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
+			reverse your motors, although you are not required to do this)
 
 ### Week 6: Friday, February 23, 2017
 - Work week ~~with Special Guest Lecturer ~~
 
-### Week 7: Friday, March 3, 2017
-- Vehicle Project critique 12-1pm
-- Midterm evaluations (2/20-3/3) 1-3pm
-
-- Homework due __this week__ Friday March 2 at noon. 
-	- Write a course- and self-evaluation, 
-		email to me by Friday March 2 at 3pm. 
-		__No late assignments will be accepted.__
-		- Personal self-evaluation
-			- What have you learned?
-			- What are your goals for the rest of the semester?
-			- What obstacles will you face in achieving these goals?
-			- How do you plan to overcome those obstacles?
-			- How would you grade your vehicle? 
-			- What would you have done differently
-				if you had to do the vehicle assignment over again?
-		- Course evaluation
-			- What further would you like to learn in this course?
-			- What would you like to change in the course material?
-			- What would you like to change in the way the material is delivered?
-			- What would you add to this class?
-			- What would you remove from this class?
+### Week 7: Friday, March 2, 2017
+- Vehicle Project presentation and critique 
+- Midterm evaluations 1-3pm
+- Homework due today: Friday March 2. 
+	- Write a course- and self-evaluation, email it to me (stewari@cca.edu) by end of day. 
+			- Personal self-evaluation
+				- What have you learned?
+				- What are your goals for the rest of the semester?
+				- What obstacles will you face in achieving these goals?
+				- How do you plan to overcome those obstacles?
+				- How would you grade your vehicle? 
+				- What would you have done differently if you had to do the vehicle assignment over again?
+			- Course evaluation
+				- What further would you like to learn in this course?
+				- What would you like to change in the course material?
+				- What would you like to change in the way the material is delivered?
+				- What would you add to this class?
+				- What would you remove from this class?
 - **Homework due next week.** Please read and try to understand as much as
 	possible. Be prepared to answer questions in class. It is OK if you don't
 	understand everything, but it is not OK if you did not read:
@@ -386,25 +380,16 @@ The schedule is subject to change
 			start over at the beginning.
 		5. Upload this program to your Github repository 
 			in a new folder called "week8"
-  4. Write a concept proposal for your final project
-			which must be substantially more complex than the exercises we've done in
-			class. 
-			Upload this proposal to your Github repository 
-			in a new folder called "finalProject"
-  5. Read the __Processing__ resources
-		shown on our
-		[resources](https://github.com/loopstick/ResourcesForClasses)
-		page
+  4. Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. 
+			Upload this proposal to your Github repository in a new folder called "finalProject"
   5. Read the __Classes and Objects__ resources
 		shown on our
 		[resources](https://github.com/loopstick/ResourcesForClasses)
 		page
-
 ### Week 9: Friday, March 16, 2018
 - Homework critique
 - Lecture
-		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/)
-		, if necessary
+		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
 		- Edge detection
 		- Debouncing
 		- Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
