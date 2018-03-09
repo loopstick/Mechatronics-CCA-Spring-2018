@@ -277,8 +277,7 @@ The schedule is subject to change
 		[tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 	- Complex control [example](examples/multitasking/multitasking.ino)
 	- Shields
-	- [Construction
-		Techniques](http://teachmetomake.com/wordpress/construction-techniques)
+	- [Construction Techniques](http://teachmetomake.com/wordpress/construction-techniques)
 - **Homework:**
 	- Put a picture and a short video of your drawing machine in your Github
 		repository
@@ -326,6 +325,13 @@ The schedule is subject to change
 		We'll spend another 2 weeks on this vehicle project
 			
 - Midterm evaluations 1-3pm
+- Lecture: more Motor control
+    - H-Bridges
+      - to buy or to build?
+
+- Hands-on activity
+	- Breadboard L293 H-bridge motor controller
+	
 - Homework due today: Friday March 2. 
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
   
@@ -351,9 +357,13 @@ The schedule is subject to change
 	understand everything, but it is not OK if you did not read:
 	
 	Read about 
-	H-Bridges: https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
+	H-Bridges: 
+	https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
+	https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
 	
-	
+	 review using Transistors for Motor Control, if necessary:
+	 https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/
+	 
 	OLD STUFF:
 	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
 	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
@@ -373,14 +383,17 @@ The schedule is subject to change
 			- (Flow chart)
 			- Pseudo-code
 - Hands-on activity
-	- Servo knob and sweep tutorials
-- Homework
-	1. I have added links to some resources on functions and arrays to our
-		[resources](https://github.com/loopstick/ResourcesForClasses)
-		page. Please read so that you understand functions better.
-		If you prefer videos please search for them and let me know if you find
-		anything good.
-	3. Check out a servo motor and get a momentary pushbutton switch from the 
+  - Soldering demo
+  - start soldering L293 proto board
+  - Servo knob and sweep tutorials
+- __Homework__
+    - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
+    - create your own Fritzing layout for the L293 H-Bridge
+      - project 1: solder a H-Bridge shield
+      - project 2: make a H-Bridgeshield on the Othermill
+    - keep working on your vehicle/driving robot
+
+- Code Challenge: Check out a servo motor and get a momentary pushbutton switch from the 
 			Hybrid Lab. Write a program to do the following:
 		1. Create an array of 5 integers 
 		2. Initialize the array with 5 arbitrary values between 0 and 180
@@ -392,11 +405,7 @@ The schedule is subject to change
 			start over at the beginning.
 		5. Upload this program to your Github repository 
 			in a new folder called "week8"
-  4. Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. 
-			Upload this proposal to your Github repository in a new folder called "finalProject"
-  5. Read the __Classes and Objects__ resources
-		shown on our
-		[resources](https://github.com/loopstick/ResourcesForClasses)
+- Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "finalProject"
 		page
 ### Week 9: Friday, March 16, 2018
 - Homework critique
