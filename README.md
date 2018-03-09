@@ -358,11 +358,12 @@ The schedule is subject to change
 	
 	Read about 
 	H-Bridges: 
-	https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
-	https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+	- https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
+	- https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+	- http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
 	
 	 review using Transistors for Motor Control, if necessary:
-	 https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/
+	 - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/
 	 
 	OLD STUFF:
 	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
