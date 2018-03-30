@@ -443,35 +443,19 @@ The schedule is subject to change
 
 ### Week 11: Friday, March 30, 2018
 - Lecture
-  - Fritzing, Othermill
-    ~~[tutorial](http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)~~
-  - Wireless
-    - Wifi
-      - Arduino [Yun](https://www.arduino.cc/en/Guide/ArduinoYunLin)
-      - Arduino [MKR1000](https://www.arduino.cc/en/Guide/MKR1000)
-    - Bluetooth tutorial: http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino
-      - [archived 
-      	version](https://web.archive.org/web/20170711222143/http://teachmetomake.com/wordpress/adafruit-bluefruit-arduino) 
-      - __Don't solder the module to your project! Add the appropriate header to mate with the module.__
-    - Sparkfun XBee
-      [tutorial](https://learn.sparkfun.com/tutorials/xbee-shield-hookup-guide)
+  - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
   - Sensors (accelerometer, sound) and LCD display
     - sensors
     - complex program
     - combining examples
     - functions
 - Hands-on Demo
-  - Arduino/Processing communication
-    - Send value from Arduino to Processing
     - Construction techniques
     - Prototyping shields
       - When is it OK to use solid core wires
       - Mounting modules using headers
-  - Fritzing
   
 - **Homework:**
-	- Read the Processing resources in 
-		[resources](https://github.com/michaelshiloh/resourcesForClasses)
 	- Build any working part of your project 
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
