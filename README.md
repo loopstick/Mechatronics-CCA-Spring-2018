@@ -463,7 +463,7 @@ The schedule is subject to change
 ### Week 12: Friday, April 6, 2018
 - Critique working mock-up
 -
-- Homework: __Working__ minimal viable project due week 13 April 18
+- Homework: __Working__ minimal viable project due week 13: April 20
 
 ### Week 13: Friday, April 13, 2018
 - Work week. 
@@ -473,7 +473,7 @@ The schedule is subject to change
     think about whether the your project is doing something in a meaningful or
     unique way. Will someone want to play with your project for longer than
     5 seconds? Why or why not?
-  - Minimal Viable Project is due April 20
+  - Minimal Viable Project is due next week! 
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
 
@@ -485,7 +485,7 @@ The schedule is subject to change
 ### Week 15: Friday, April 27, 2018
 - Course evaluations 
 - Review schedule 
-~~- Review Interface Show spreadsheet~~
+- Review Interface Show spreadsheet
 - Review final project writeup
 - Final project critique
 
