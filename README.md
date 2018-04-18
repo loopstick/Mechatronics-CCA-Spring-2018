@@ -412,8 +412,9 @@ The schedule is subject to change
 - Homework critique
 - Lecture
 		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
-		- Edge detection
-		- Debouncing
+		- [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+		- [Debouncing](https://www.arduino.cc/en/Tutorial/Debounce)
+		- [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
 		- Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
 		- Debugging
 - Critique proposal concepts
@@ -463,7 +464,7 @@ The schedule is subject to change
 ### Week 12: Friday, April 6, 2018
 - Critique working mock-up
 -
-- Homework: __Working__ minimal viable project due week 13: April 20
+- Homework: __Working__ minimal viable project due week 14: April 20
 
 ### Week 13: Friday, April 13, 2018
 - Work week. 
@@ -477,12 +478,12 @@ The schedule is subject to change
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
 
-### Week 14: Friday, April 20, 2018
+### Week 14: Friday, April 20, 2018 - PENULTIMATE CLASS!
 - Demonstrate working minimal viable project
 - Work on final project
 
 
-### Week 15: Friday, April 27, 2018
+### Week 15: Friday, April 27, 2018 - LAST CLASS!
 - Course evaluations 
 - Review schedule 
 - Review Interface Show spreadsheet
