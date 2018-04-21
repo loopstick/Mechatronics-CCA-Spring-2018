@@ -512,6 +512,16 @@ The schedule is subject to change
 ## Friday, May 4 at 9am: Project writeup due 
 
 
+## Saturday, May 5: Interface Show!!!!
+	7PM to 9:30PM
+	Oliver Art Center
+	California College of the Arts
+	5212 Broadway, Oakland 
+
+
+
+
+
 ## Current Student Repositories
 CCA Spring 2018 Mechtranics GitHub Repositories
 
